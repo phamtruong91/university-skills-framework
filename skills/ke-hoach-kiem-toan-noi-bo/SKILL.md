@@ -1,6 +1,6 @@
 ---
 name: "ke-hoach-kiem-toan-noi-bo"
-description: "Lập kế hoạch kiểm toán nội bộ năm của trường đại học (theo mô hình Ban Thanh tra, Pháp chế và Kiểm toán nội bộ): xác định đối tượng, phạm vi, phương pháp và lịch kiểm toán. Dùng khi xây dựng kế hoạch kiểm toán năm trình Hiệu trưởng/Hội đồng trường phê duyệt. Không dùng cho kế hoạch thanh tra (dùng ke-hoach-thanh-tra-nam)."
+description: "Dùng cho thời điểm đầu năm hoặc đầu nhiệm kỳ, khi Ban Thanh tra, Pháp chế và Kiểm toán nội bộ lập kế hoạch kiểm toán nội bộ năm trình Hiệu trưởng, Hội đồng trường: đối tượng, phạm vi, phương pháp, lịch. Không dùng cho kế hoạch thanh tra (dùng ke-hoach-thanh-tra-nam)."
 ---
 
 # Lập kế hoạch kiểm toán nội bộ
@@ -25,6 +25,9 @@ AI hỗ trợ chuẩn bị và đối chiếu; cán bộ phụ trách kiểm tra
 ## Khi nào dùng
 Đầu mỗi năm (hoặc đầu nhiệm kỳ), khi Ban Thanh tra, Pháp chế và Kiểm toán nội bộ cần xây dựng
 kế hoạch kiểm toán nội bộ năm để trình Hiệu trưởng (hoặc Hội đồng trường) phê duyệt và tổ chức thực hiện.
+
+## Khi nào KHÔNG dùng
+- Không dùng cho kế hoạch thanh tra (dùng `ke-hoach-thanh-tra-nam`).
 
 ## Đầu vào (Input)
 

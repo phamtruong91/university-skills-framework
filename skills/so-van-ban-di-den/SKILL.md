@@ -1,6 +1,6 @@
 ---
 name: "so-van-ban-di-den"
-description: "Xây dựng mẫu sổ đăng ký văn bản đi / văn bản đến và quy trình quản lý, theo dõi xử lý văn bản trong trường đại học (tiếp nhận – đăng ký – trình – theo dõi – lưu trữ). Dùng khi Phòng Hành chính – Tổng hợp chuẩn hóa công tác văn thư."
+description: "Dùng khi Phòng Hành chính – Tổng hợp lập sổ văn bản đi, văn bản đến hoặc xây dựng, chuẩn hóa quy trình xử lý văn bản: tiếp nhận, đăng ký, trình, theo dõi, lưu trữ."
 ---
 
 # Quản lý sổ văn bản đi / đến

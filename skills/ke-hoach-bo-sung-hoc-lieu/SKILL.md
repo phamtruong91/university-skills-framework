@@ -1,6 +1,6 @@
 ---
 name: "ke-hoach-bo-sung-hoc-lieu"
-description: "Lập kế hoạch bổ sung và số hóa học liệu của thư viện trường đại học theo nhu cầu đào tạo của các khoa: sách, giáo trình, cơ sở dữ liệu điện tử, tài liệu số hóa. Dùng khi xây dựng kế hoạch phát triển vốn tài liệu hằng năm."
+description: "Dùng khi thư viện lập kế hoạch năm mua sắm, tiếp nhận và số hóa học liệu (sách, giáo trình, cơ sở dữ liệu điện tử) theo nhu cầu đào tạo, nghiên cứu của các khoa."
 ---
 
 # Kế hoạch bổ sung, số hóa học liệu

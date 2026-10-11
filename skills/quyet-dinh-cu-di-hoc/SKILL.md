@@ -1,6 +1,6 @@
 ---
 name: "quyet-dinh-cu-di-hoc"
-description: "Soạn quyết định cử cán bộ, viên chức, giảng viên đi đào tạo, bồi dưỡng, tập huấn trong và ngoài nước. Dùng khi phòng Tổ chức – Cán bộ cử người đi học theo kế hoạch hoặc theo nhu cầu đột xuất, làm căn cứ chế độ, kinh phí."
+description: "Dùng khi cần cử cán bộ, viên chức, giảng viên đi đào tạo, bồi dưỡng, tập huấn trong hoặc ngoài nước và ban hành quyết định làm căn cứ chế độ, kinh phí."
 ---
 
 # Quyết định cử cán bộ đi đào tạo / tập huấn

@@ -1,6 +1,6 @@
 ---
 name: "bao-cao-tong-ket-vp"
-description: "Soạn báo cáo tổng kết công tác văn phòng định kỳ của Phòng Hành chính – Tổng hợp (văn thư, lễ tân, quản trị hành chính, thi đua). Dùng khi tổng kết công tác văn phòng theo quý / năm."
+description: "Dùng khi Phòng Hành chính – Tổng hợp tổng kết công tác văn phòng theo quý, 6 tháng, năm (văn thư, lễ tân, quản trị hành chính, thi đua) hoặc báo cáo chuyên đề văn thư, cải cách hành chính."
 ---
 
 # Soạn báo cáo tổng kết công tác văn phòng

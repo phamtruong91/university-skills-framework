@@ -1,6 +1,6 @@
 ---
 name: "ky-yeu-hoi-thao"
-description: "Biên tập kỷ yếu hội thảo khoa học của trường đại học: thu thập bài viết, chuẩn hoá định dạng và trích dẫn tài liệu tham khảo, sắp xếp bài theo phiên thảo luận, soạn lời nói đầu và mục lục, xuất bản file hoàn chỉnh. Dùng khi cần xuất bản kỷ yếu sau hội thảo, hội nghị khoa học."
+description: "Dùng khi cần biên tập và xuất bản kỷ yếu sau hội thảo khoa học: gom bài toàn văn, chuẩn hóa định dạng và trích dẫn, sắp xếp theo phiên, soạn lời nói đầu và mục lục."
 ---
 
 # Biên tập kỷ yếu hội thảo khoa học

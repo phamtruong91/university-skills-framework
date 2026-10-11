@@ -1,6 +1,6 @@
 ---
 name: "bao-cao-dao-tao-sdh"
-description: "Soạn báo cáo công tác đào tạo sau đại học hằng năm của trường đại học: tổng hợp tuyển sinh SĐH, quy mô học viên/NCS theo ngành, tiến độ bảo vệ, văn bằng đã cấp, đội ngũ hướng dẫn, cùng khó khăn và kiến nghị. Dùng khi Phòng Đào tạo SĐH cần báo cáo tổng kết năm gửi Ban Giám hiệu và Bộ GD&ĐT."
+description: "Dùng cho thời điểm cuối năm học hoặc năm dương lịch, khi Phòng Đào tạo Sau đại học tổng kết đào tạo thạc sĩ, tiến sĩ để báo cáo Ban Giám hiệu, Bộ GD&ĐT: tuyển sinh, quy mô, tiến độ bảo vệ, văn bằng, đội ngũ hướng dẫn."
 ---
 
 # Báo cáo đào tạo sau đại học hằng năm

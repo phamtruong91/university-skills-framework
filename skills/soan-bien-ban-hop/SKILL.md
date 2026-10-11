@@ -1,6 +1,6 @@
 ---
 name: "soan-bien-ban-hop"
-description: "Soạn biên bản cuộc họp / hội nghị / hội đồng từ ghi chép, gồm thành phần, diễn biến và kết luận. Dùng cho giao ban, họp hội đồng, họp đơn vị."
+description: "Dùng cho thời điểm sau mỗi cuộc họp, hội nghị, phiên họp hội đồng (giao ban, họp đơn vị), khi cần lập biên bản ghi nhận thành phần, diễn biến, kết luận từ ghi chép."
 ---
 
 # Soạn biên bản cuộc họp

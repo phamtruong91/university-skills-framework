@@ -1,6 +1,6 @@
 ---
 name: "ra-soat-du-thao-van-ban"
-description: "Rà soát dự thảo văn bản hành chính trước khi trình ký: kiểm tra thể thức theo Nghị định 30/2020/NĐ-CP, logic nội dung, thuật ngữ, số liệu → bảng lỗi chi tiết + bản sạch đã hiệu đính. Dùng chung cho mọi loại văn bản, mọi phòng ban/khoa trong trường. Dùng khi trước khi trình lãnh đạo ký bất kỳ văn bản nào."
+description: "Dùng cho thời điểm trước, khi trình lãnh đạo ký bất kỳ văn bản nào (công văn, tờ trình, quyết định, thông báo, kế hoạch, báo cáo) để kiểm tra thể thức Nghị định 30/2020/NĐ-CP, logic, thuật ngữ, số liệu. Dùng chung mọi đơn vị."
 ---
 
 # Rà soát dự thảo văn bản

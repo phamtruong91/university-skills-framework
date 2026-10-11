@@ -1,6 +1,6 @@
 ---
 name: "de-an-vi-tri-viec-lam"
-description: "Xây dựng đề án vị trí việc làm của trường đại học hoặc đơn vị trực thuộc theo căn cứ vị trí việc làm hiện hành (đối chiếu Nghị định 232/2026/NĐ-CP): danh mục vị trí việc làm, bản mô tả công việc, khung năng lực và số lượng người làm việc. Dùng khi cần rà soát, sắp xếp tổ chức bộ máy hoặc làm căn cứ tuyển dụng, bổ nhiệm, đánh giá viên chức."
+description: "Dùng khi trường hoặc đơn vị trực thuộc cần xây dựng, rà soát đề án vị trí việc làm (đối chiếu Nghị định 232/2026/NĐ-CP): mô tả công việc, khung năng lực, số lượng người làm việc, làm căn cứ tuyển dụng, bổ nhiệm, đánh giá."
 ---
 
 # Xây dựng đề án vị trí việc làm

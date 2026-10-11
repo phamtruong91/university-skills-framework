@@ -1,6 +1,6 @@
 ---
 name: "quyet-dinh-khen-thuong-kl"
-description: "Soạn quyết định khen thưởng hoặc kỷ luật viên chức, người lao động của trường đại học đúng thể thức Nghị định 30/2020/NĐ-CP. Dùng khi Hội đồng thi đua – khen thưởng / Hội đồng kỷ luật đã có kết luận và cần ban hành quyết định chính thức của Hiệu trưởng. Không dùng cho các quyết định hành chính khác (dùng soan-quyet-dinh-hc)."
+description: "Dùng khi Hội đồng thi đua – khen thưởng hoặc Hội đồng kỷ luật đã có kết luận và cần ban hành quyết định chính thức của Hiệu trưởng về khen thưởng hoặc kỷ luật viên chức, người lao động. Không dùng cho các quyết định hành chính khác (dùng soan-quyet-dinh-hc)."
 ---
 
 # Quyết định khen thưởng / kỷ luật viên chức
@@ -26,6 +26,9 @@ AI hỗ trợ chuẩn bị và đối chiếu; cán bộ phụ trách kiểm tra
 Khi cần ban hành quyết định chính thức về khen thưởng (Giấy khen của Hiệu trưởng, đề nghị cấp trên khen...)
 hoặc kỷ luật (khiển trách, cảnh cáo, giáng chức, cách chức) đối với viên chức, người lao động —
 sau khi Hội đồng thi đua – khen thưởng / Hội đồng kỷ luật đã họp, bỏ phiếu và có biên bản kết luận.
+
+## Khi nào KHÔNG dùng
+- Không dùng cho các quyết định hành chính khác (dùng `soan-quyet-dinh-hc`).
 
 ## Đầu vào (Input)
 

@@ -1,6 +1,6 @@
 ---
 name: "ke-hoach-hoat-dong-phan-hieu"
-description: "Soạn kế hoạch hoạt động năm của Phân hiệu / Cơ sở đào tạo trực thuộc trường đại học, bám theo khung kế hoạch của trường mẹ: đào tạo, CTSV, KHCN, tài chính, cơ sở vật chất. Dùng khi lập kế hoạch năm học của phân hiệu."
+description: "Dùng khi phân hiệu hoặc cơ sở đào tạo lập kế hoạch năm học, cụ thể hóa kế hoạch của trường mẹ cho phù hợp điều kiện tại chỗ: đào tạo, công tác sinh viên, KHCN, tài chính, cơ sở vật chất."
 ---
 
 # Soạn kế hoạch hoạt động phân hiệu

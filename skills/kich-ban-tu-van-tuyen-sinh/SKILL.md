@@ -1,6 +1,6 @@
 ---
 name: "kich-ban-tu-van-tuyen-sinh"
-description: "Xây dựng kịch bản tư vấn tuyển sinh và hướng nghiệp theo từng đối tượng (học sinh THPT, phụ huynh): câu hỏi thường gặp, câu trả lời chuẩn có số liệu, kỹ thuật xử lý từ chối và chốt hành động. Dùng khi chuẩn bị đội ngũ tư vấn cho ngày hội, livestream, tư vấn tại trường THPT, hotline/fanpage mùa tuyển sinh."
+description: "Dùng cho thời điểm trước mùa tuyển sinh, khi cần kịch bản cho đội tư vấn (ngày hội, livestream, tư vấn tại trường THPT, hotline, fanpage) theo từng đối tượng học sinh, phụ huynh."
 ---
 
 # Xây dựng kịch bản tư vấn tuyển sinh & hướng nghiệp
@@ -26,6 +26,9 @@ AI hỗ trợ chuẩn bị và đối chiếu; cán bộ phụ trách kiểm tra
 Trước mỗi chiến dịch/mùa tuyển sinh, khi Phòng Tuyển sinh (hoặc Phòng Truyền thông và Tuyển sinh)
 cần chuẩn bị kịch bản cho đội ngũ tư vấn: ngày hội tư vấn, livestream, tư vấn tại trường THPT,
 trực hotline, trả lời fanpage.
+
+## Khi nào KHÔNG dùng
+- Cần bộ câu hỏi thường gặp đăng công khai: dùng `faq-tuyen-sinh`.
 
 ## Đầu vào (Input)
 

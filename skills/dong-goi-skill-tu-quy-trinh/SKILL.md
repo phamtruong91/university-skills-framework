@@ -1,6 +1,6 @@
 ---
 name: "dong-goi-skill-tu-quy-trinh"
-description: "Meta-skill — phân rã một quy trình thực tế của đơn vị thành gói skill AI có thể tái dùng: process map, skill spec theo chuẩn SKILL.md, bộ test case kiểm thử. Dùng chung cho mọi đơn vị khi muốn số hóa tri thức nghiệp vụ. Dùng khi đơn vị muốn biến một quy trình công việc thành skill AI dùng lại được."
+description: "Dùng khi một đơn vị muốn biến quy trình công việc thực tế (đang làm thủ công hoặc nằm trong đầu cán bộ) thành skill AI dùng lại được, có kiểm thử và chuyển giao. Dùng chung cho mọi đơn vị."
 ---
 
 # Đóng gói skill từ quy trình (meta-skill)

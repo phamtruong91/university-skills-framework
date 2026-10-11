@@ -1,6 +1,6 @@
 ---
 name: "ho-so-moi-thau"
-description: "Soạn hồ sơ mời thầu / hồ sơ yêu cầu cho gói mua sắm trang thiết bị của trường đại học (chỉ dẫn nhà thầu, tiêu chuẩn kỹ thuật, tiêu chí đánh giá, biểu mẫu dự thầu). Dùng khi Phòng Quản trị – Thiết bị chuẩn bị lựa chọn nhà thầu cho từng gói mua sắm."
+description: "Dùng khi Phòng Quản trị – Thiết bị chuẩn bị lựa chọn nhà thầu cho gói mua sắm thiết bị đã có trong kế hoạch năm và cần hồ sơ mời thầu hoặc hồ sơ yêu cầu: chỉ dẫn, tiêu chuẩn kỹ thuật, tiêu chí đánh giá."
 ---
 
 # Soạn hồ sơ mời thầu mua sắm thiết bị

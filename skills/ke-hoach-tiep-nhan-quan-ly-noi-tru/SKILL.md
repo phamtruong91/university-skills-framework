@@ -1,6 +1,6 @@
 ---
 name: "ke-hoach-tiep-nhan-quan-ly-noi-tru"
-description: "Lập kế hoạch tiếp nhận và quản lý sinh viên nội trú của trung tâm nội trú/ký túc xá trường đại học: tiếp nhận SV, phân phòng, an ninh trật tự, dịch vụ ăn ở, căng tin, phòng cháy chữa cháy. Dùng đầu năm học hoặc đầu mỗi học kỳ. Dùng khi đầu năm học hoặc đầu học kỳ cần lập kế hoạch tiếp nhận và quản lý sinh viên nội trú."
+description: "Dùng cho thời điểm đầu năm học hoặc đầu học kỳ, khi trung tâm nội trú, ký túc xá lập kế hoạch tiếp nhận sinh viên, phân phòng, an ninh trật tự, dịch vụ ăn ở, căng tin, phòng cháy chữa cháy."
 ---
 
 # Kế hoạch tiếp nhận & quản lý nội trú

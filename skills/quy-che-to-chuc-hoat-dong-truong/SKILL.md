@@ -1,6 +1,6 @@
 ---
 name: "quy-che-to-chuc-hoat-dong-truong"
-description: "Soạn quy chế tổ chức và hoạt động của trường đại học (Hội đồng trường, Hiệu trưởng, phòng ban chức năng, khoa/bộ môn, đơn vị phục vụ, tài chính, khen thưởng – kỷ luật). Dùng khi xây dựng mới hoặc sửa đổi, bổ sung quy chế tổ chức hoạt động của trường. Không dùng cho quy chế của một phòng/khoa/trung tâm/viện (dùng quy-che-to-chuc-hoat-dong)."
+description: "Dùng khi xây dựng mới hoặc sửa đổi quy chế tổ chức và hoạt động của cả trường cho phù hợp Luật Giáo dục đại học sửa đổi: Hội đồng trường, Hiệu trưởng, phòng ban, khoa, tài chính, khen thưởng – kỷ luật. Không dùng cho quy chế của một phòng/khoa/trung tâm/viện (dùng quy-che-to-chuc-hoat-dong)."
 ---
 
 # Soạn quy chế tổ chức và hoạt động của trường
@@ -26,6 +26,9 @@ AI hỗ trợ chuẩn bị và đối chiếu; cán bộ phụ trách kiểm tra
 ## Khi nào dùng
 Khi xây dựng mới quy chế tổ chức và hoạt động; khi sửa đổi, bổ sung cho phù hợp
 Luật Giáo dục đại học sửa đổi và tình hình thực tế của trường.
+
+## Khi nào KHÔNG dùng
+- Không dùng cho quy chế của một phòng/khoa/trung tâm/viện (dùng `quy-che-to-chuc-hoat-dong`).
 
 ## Đầu vào (Input)
 | Trường | Mô tả | Bắt buộc |

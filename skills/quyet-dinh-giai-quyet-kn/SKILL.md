@@ -1,6 +1,6 @@
 ---
 name: "quyet-dinh-giai-quyet-kn"
-description: "Soạn quyết định giải quyết khiếu nại / tố cáo trong trường đại học: tóm tắt đơn, quá trình xác minh, căn cứ pháp lý (Luật Khiếu nại 2011, Luật Tố cáo 2018), nội dung quyết định (giữ nguyên / sửa đổi / hủy bỏ / công nhận / bác) và quyền khiếu nại tiếp, khởi kiện. Dùng khi Hiệu trưởng giải quyết khiếu nại lần đầu hoặc tố cáo thuộc thẩm quyền."
+description: "Dùng khi Hiệu trưởng giải quyết khiếu nại lần đầu hoặc tố cáo thuộc thẩm quyền, đã xác minh đầy đủ và cần soạn quyết định theo Luật Khiếu nại, Luật Tố cáo hiện hành."
 ---
 
 # Soạn quyết định giải quyết khiếu nại / tố cáo

@@ -1,6 +1,6 @@
 ---
 name: "bao-cao-ctsv-nam"
-description: "Soạn báo cáo tổng kết công tác sinh viên năm học đầy đủ các mảng (học bổng, rèn luyện, ký túc xá, phong trào, hỗ trợ việc làm, y tế – bảo hiểm) kèm số liệu, đánh giá ưu/khuyết điểm và phương hướng năm sau. Dùng khi Phòng Công tác sinh viên lập báo cáo tổng kết năm học trình Ban Giám hiệu."
+description: "Dùng khi Phòng Công tác sinh viên lập báo cáo tổng kết năm học trình Ban Giám hiệu: học bổng, rèn luyện, ký túc xá, phong trào, việc làm, y tế – bảo hiểm, kèm số liệu và phương hướng năm sau."
 ---
 
 # Soạn báo cáo công tác sinh viên năm học

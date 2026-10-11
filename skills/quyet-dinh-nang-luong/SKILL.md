@@ -1,6 +1,6 @@
 ---
 name: "quyet-dinh-nang-luong"
-description: "Soạn quyết định nâng bậc lương thường xuyên, nâng lương trước thời hạn, hưởng phụ cấp thâm niên vượt khung và chuyển ngạch/chuyển chức danh nghề nghiệp cho viên chức. Dùng khi đến kỳ xét nâng lương (quý I hằng năm), xét trước thời hạn do lập thành tích xuất sắc, hoặc viên chức đủ điều kiện chuyển ngạch."
+description: "Dùng khi đến kỳ xét nâng bậc lương, nâng lương trước hạn, phụ cấp thâm niên vượt khung hoặc chuyển ngạch, chức danh nghề nghiệp cho viên chức và cần soạn quyết định."
 ---
 
 # Soạn quyết định nâng lương, phụ cấp thâm niên, chuyển ngạch

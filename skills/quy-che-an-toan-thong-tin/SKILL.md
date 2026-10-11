@@ -1,6 +1,6 @@
 ---
 name: "quy-che-an-toan-thong-tin"
-description: "Soạn quy chế an toàn thông tin mạng của trường đại học: quản lý tài khoản, phân quyền, bảo vệ dữ liệu, sao lưu, ứng phó sự cố. Dùng khi ban hành mới hoặc rà soát quy chế ATTT của trường."
+description: "Dùng khi ban hành mới hoặc sửa đổi quy chế an toàn thông tin cho các hệ thống CNTT của trường (quản lý đào tạo, học trực tuyến, email, website, dữ liệu dùng chung): tài khoản, phân quyền, sao lưu, ứng phó sự cố."
 ---
 
 # Quy chế an toàn thông tin mạng

@@ -1,6 +1,6 @@
 ---
 name: "ke-hoach-quan-tri-thuong-hieu"
-description: "Lập kế hoạch quản trị thương hiệu trường đại học: định vị thương hiệu, chuẩn hóa bộ nhận diện, giám sát hình ảnh và kịch bản xử lý khủng hoảng truyền thông. Dùng khi Phòng Truyền thông (hoặc đơn vị phụ trách thương hiệu) xây dựng kế hoạch năm/quý."
+description: "Dùng khi đơn vị phụ trách truyền thông lập kế hoạch quản trị thương hiệu năm hoặc quý, hoặc củng cố hình ảnh sau sự kiện, chiến dịch lớn: định vị, bộ nhận diện, giám sát hình ảnh, xử lý khủng hoảng truyền thông."
 ---
 
 # Lập kế hoạch quản trị thương hiệu

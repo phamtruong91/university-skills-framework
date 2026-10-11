@@ -1,6 +1,6 @@
 ---
 name: "ke-hoach-dao-tao-lien-tuc"
-description: "Lập kế hoạch đào tạo liên tục năm của Trung tâm Đào tạo liên tục / Trường bồi dưỡng: khảo sát nhu cầu, danh mục khóa ngắn hạn, lịch khai giảng, dự toán thu chi. Dùng khi xây dựng kế hoạch năm hoặc điều chỉnh giữa kỳ."
+description: "Dùng khi Trung tâm Đào tạo liên tục hoặc Trường bồi dưỡng lập kế hoạch năm hoặc điều chỉnh giữa kỳ: khảo sát nhu cầu, danh mục khóa ngắn hạn, lịch khai giảng, dự toán thu chi."
 ---
 
 # Kế hoạch đào tạo liên tục

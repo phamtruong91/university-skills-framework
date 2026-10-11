@@ -1,6 +1,6 @@
 ---
 name: "nghi-quyet-hoi-dong-khdt"
-description: "Soạn nghị quyết của Hội đồng Khoa học và Đào tạo: quyết nghị về chương trình đào tạo, đề tài NCKH, học hàm, và các nội dung chuyên môn thuộc thẩm quyền hội đồng. Dùng sau khi phiên họp đã biểu quyết thông qua. Dùng khi Hội đồng Khoa học và Đào tạo đã biểu quyết và cần ban hành nghị quyết."
+description: "Dùng khi Hội đồng Khoa học và Đào tạo đã biểu quyết thông qua các nội dung (chương trình đào tạo, đề tài, công nhận chức danh, định hướng KHCN) và cần ban hành nghị quyết làm căn cứ cho Hiệu trưởng quyết định."
 ---
 
 # Nghị quyết Hội đồng KH&ĐT

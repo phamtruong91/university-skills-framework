@@ -1,6 +1,6 @@
 ---
 name: "thong-bao-dang-ky-de-tai"
-description: "Soạn thông báo đăng ký đề tài NCKH các cấp (cấp trường, cấp bộ/tỉnh, cấp nhà nước) đúng thể thức hành chính. Dùng khi Phòng KHCN triển khai đợt đăng ký đề tài NCKH hằng năm hoặc đột xuất cho cán bộ, giảng viên trong trường."
+description: "Dùng khi Phòng KHCN mở đợt đăng ký đề tài NCKH (cấp trường, bộ/tỉnh, nhà nước) và cần soạn thông báo gửi các đơn vị: thời hạn, hồ sơ, định mức kinh phí, nơi nhận."
 ---
 
 # Thông báo đăng ký đề tài NCKH các cấp

@@ -1,6 +1,6 @@
 ---
 name: "quyet-dinh-ky-luat-sv"
-description: "Soạn quyết định khen thưởng hoặc kỷ luật sinh viên của trường đại học theo quy chế công tác sinh viên. Dùng khi có biên bản vi phạm cần xử lý kỷ luật (khiển trách, cảnh cáo, đình chỉ học tập có thời hạn, buộc thôi học) hoặc khi tổng kết khen thưởng sinh viên tiêu biểu."
+description: "Dùng khi có biên bản vi phạm của sinh viên cần ban hành quyết định kỷ luật (khiển trách, cảnh cáo, đình chỉ học tập, buộc thôi học), hoặc khi xét khen thưởng sinh viên theo đợt, theo quy chế công tác sinh viên."
 ---
 
 # Quyết định khen thưởng / kỷ luật sinh viên

@@ -1,6 +1,6 @@
 ---
 name: "ke-hoach-ngay-hoi-viec-lam"
-description: "Lập kế hoạch Ngày hội việc làm / kết nối doanh nghiệp của trường đại học. Dùng khi cần tổ chức gian hàng tuyển dụng, phỏng vấn thử, tọa đàm kỹ năng nghề nghiệp cho sinh viên năm cuối và sinh viên mới tốt nghiệp."
+description: "Dùng khi trường tổ chức Ngày hội việc làm hoặc kết nối doanh nghiệp cho sinh viên năm cuối và mới tốt nghiệp: gian hàng tuyển dụng, phỏng vấn thử, tọa đàm kỹ năng nghề nghiệp, ký kết hợp tác."
 ---
 
 # Kế hoạch Ngày hội việc làm

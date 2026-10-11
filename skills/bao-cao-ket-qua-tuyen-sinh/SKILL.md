@@ -1,6 +1,6 @@
 ---
 name: "bao-cao-ket-qua-tuyen-sinh"
-description: "Tổng hợp và soạn báo cáo kết quả tuyển sinh đại học gửi Bộ GD&ĐT: số lượng đăng ký/trúng tuyển/nhập học theo từng phương thức và từng ngành, so sánh với chỉ tiêu, phân tích điểm chuẩn, khó khăn và kiến nghị. Dùng sau mỗi đợt/kỳ tuyển sinh hằng năm. Dùng khi kết thúc đợt tuyển sinh và Phòng Đào tạo cần báo cáo kết quả gửi cơ quan quản lý."
+description: "Dùng khi kết thúc đợt tuyển sinh và Phòng Đào tạo báo cáo Bộ GD&ĐT, cơ quan chủ quản: số đăng ký, trúng tuyển, nhập học theo phương thức và ngành, so chỉ tiêu, điểm chuẩn."
 ---
 
 # Báo cáo kết quả tuyển sinh gửi Bộ GD&ĐT

@@ -1,6 +1,6 @@
 ---
 name: "bien-soan-giao-trinh"
-description: "Hỗ trợ biên soạn giáo trình, bài giảng đại học: từ đề cương chi tiết đến cấu trúc chương, phản biện và nghiệm thu. Dùng khi giảng viên/bộ môn được giao biên soạn giáo trình cho học phần."
+description: "Dùng khi giảng viên hoặc bộ môn được giao biên soạn giáo trình, bài giảng cho một học phần: đề cương chi tiết, cấu trúc chương, phản biện, nghiệm thu."
 ---
 
 # Biên soạn giáo trình / bài giảng

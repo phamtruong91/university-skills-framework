@@ -1,6 +1,6 @@
 ---
 name: "soan-to-trinh"
-description: "Soạn tờ trình xin chủ trương, phê duyệt của Ban Giám hiệu / Hội đồng trường / cấp trên. Dùng cho mọi đề xuất cần được phê duyệt trước khi triển khai trong trường đại học."
+description: "Dùng khi đơn vị hoặc cá nhân cần xin chủ trương, phê duyệt từ Ban Giám hiệu, Hội đồng trường hoặc cấp trên trước khi triển khai: mở ngành, tổ chức sự kiện, mua sắm, cử đi công tác, ban hành văn bản."
 ---
 
 # Soạn tờ trình

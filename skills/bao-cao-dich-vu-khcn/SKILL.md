@@ -1,6 +1,6 @@
 ---
 name: "bao-cao-dich-vu-khcn"
-description: "Lập báo cáo hoạt động dịch vụ khoa học công nghệ của trường đại học: doanh thu, khách hàng, dự án/hợp đồng, hiệu quả và kế hoạch kỳ tới. Dùng cho đơn vị KHCN báo cáo định kỳ (quý/năm) với lãnh đạo trường."
+description: "Dùng cho thời điểm cuối quý hoặc năm, khi đơn vị làm dịch vụ khoa học công nghệ báo cáo lãnh đạo trường: hợp đồng đã ký, doanh thu, khách hàng, tiến độ dự án, kế hoạch kỳ tới."
 ---
 
 # Báo cáo dịch vụ KHCN

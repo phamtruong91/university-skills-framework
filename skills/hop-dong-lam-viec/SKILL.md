@@ -1,6 +1,6 @@
 ---
 name: "hop-dong-lam-viec"
-description: "Soạn hợp đồng làm việc đối với viên chức và hợp đồng lao động đối với người lao động trong trường đại học, đầy đủ các điều khoản về công việc, thời hạn, tiền lương, quyền và nghĩa vụ hai bên. Dùng để chuẩn bị hợp đồng theo đối tượng và căn cứ hiện hành; hồ sơ ký lại hoặc chuyển loại hợp đồng chỉ xử lý khi có căn cứ và điều kiện chuyển tiếp cho phép."
+description: "Dùng khi cần soạn hợp đồng làm việc cho viên chức (mới trúng tuyển, hết tập sự, ký lại, chuyển loại hợp đồng) hoặc hợp đồng lao động cho lao động hợp đồng như bảo vệ, tạp vụ, lái xe."
 ---
 
 # Soạn hợp đồng làm việc / hợp đồng lao động

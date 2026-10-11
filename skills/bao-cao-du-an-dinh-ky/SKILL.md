@@ -1,6 +1,6 @@
 ---
 name: "bao-cao-du-an-dinh-ky"
-description: "Soạn báo cáo dự án định kỳ gửi khách hàng/đối tác cho Viện Đổi mới sáng tạo và Chuyển giao công nghệ: tiến độ, deliverable, KPI, vấn đề và kế hoạch kỳ tới. Dùng khi đến kỳ báo cáo theo hợp đồng/thỏa thuận dự án."
+description: "Dùng khi dự án của Viện Đổi mới sáng tạo và Chuyển giao công nghệ đến kỳ báo cáo (tháng, quý, giai đoạn) cho khách hàng, đối tác theo hợp đồng: tiến độ, sản phẩm bàn giao, chỉ số đánh giá, vấn đề tồn tại."
 ---
 
 # Báo cáo dự án định kỳ

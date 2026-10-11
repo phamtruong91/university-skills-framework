@@ -1,6 +1,6 @@
 ---
 name: "ke-hoach-dao-tao-sdh"
-description: "Lập kế hoạch đào tạo sau đại học theo dõi tiến độ học viên cao học và nghiên cứu sinh: khung thời gian toàn khóa, các mốc học học phần, bảo vệ đề cương, seminar, bảo vệ luận văn/luận án, phân công người hướng dẫn và theo dõi định kỳ. Dùng khi Phòng Đào tạo SĐH quản lý tiến độ từng khóa/lớp cao học, NCS."
+description: "Dùng khi Phòng Đào tạo SĐH cần kế hoạch và theo dõi tiến độ cho một khóa cao học hoặc một nghiên cứu sinh: mốc học phần, đề cương, seminar, bảo vệ, người hướng dẫn."
 ---
 
 # Kế hoạch đào tạo sau đại học (tiến độ học viên/NCS)

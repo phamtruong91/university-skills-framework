@@ -1,6 +1,6 @@
 ---
 name: "quyet-dinh-dieu-dong"
-description: "Soạn quyết định điều động, luân chuyển, biệt phái viên chức trường đại học đúng thể thức Nghị định 30/2020/NĐ-CP. Dùng khi cần chuyển viên chức giữa các đơn vị trong trường, luân chuyển cán bộ quản lý, hoặc cử đi biệt phái thực hiện nhiệm vụ."
+description: "Dùng khi cần ban hành quyết định điều động, luân chuyển hoặc biệt phái viên chức, cán bộ quản lý giữa các đơn vị, đúng thể thức Nghị định 30/2020/NĐ-CP."
 ---
 
 # Soạn quyết định điều động, luân chuyển, biệt phái

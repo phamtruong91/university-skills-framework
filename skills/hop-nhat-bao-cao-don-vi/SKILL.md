@@ -1,6 +1,6 @@
 ---
 name: "hop-nhat-bao-cao-don-vi"
-description: "Hợp nhất báo cáo của nhiều đơn vị theo một mẫu chung: đọc batch, mapping trường dữ liệu, chuẩn hóa, loại trùng lặp, lập gap log số liệu thiếu → báo cáo tổng hợp + phụ lục liên kết nguồn từng con số. Dùng khi hợp nhất báo cáo nhiều đơn vị, như báo cáo 3 công khai, kiểm định, tổng kết năm học..."
+description: "Dùng khi nhiều khoa, phòng, trung tâm nộp báo cáo rời rạc, mẫu không thống nhất và cần hợp nhất thành một báo cáo chung của trường (3 công khai, kiểm định, tổng kết năm học, báo cáo đột xuất), kèm nguồn từng con số."
 ---
 
 # Hợp nhất báo cáo nhiều đơn vị

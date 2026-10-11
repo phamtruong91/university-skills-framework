@@ -1,6 +1,6 @@
 ---
 name: "ke-hoach-y-te-hoc-duong"
-description: "Soạn kế hoạch y tế học đường của Trạm Y tế trường đại học: chăm sóc sức khỏe ban đầu, khám sức khỏe định kỳ, phòng chống dịch bệnh, vệ sinh môi trường học đường. Dùng khi lập kế hoạch năm học hoặc kế hoạch đột xuất phòng dịch."
+description: "Dùng khi Trạm Y tế lập kế hoạch công tác năm học (khám sức khỏe đầu năm, tiêm chủng, phòng chống dịch, vệ sinh trường học) hoặc kế hoạch đột xuất khi có dịch bệnh, sự cố y tế."
 ---
 
 # Soạn kế hoạch y tế học đường

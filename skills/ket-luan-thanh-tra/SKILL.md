@@ -1,6 +1,6 @@
 ---
 name: "ket-luan-thanh-tra"
-description: "Soạn kết luận thanh tra sau khi kết thúc một cuộc thanh tra nội bộ: nêu căn cứ (quyết định thanh tra), nội dung đã thanh tra, nhận xét và đánh giá từng nội dung, kết luận chung, kiến nghị xử lý và khắc phục. Dùng khi Đoàn thanh tra hoàn tất xác minh và cần ban hành kết luận chính thức."
+description: "Dùng khi Đoàn thanh tra đã xác minh xong một cuộc thanh tra nội bộ và cần ban hành kết luận chính thức: căn cứ, nhận xét từng nội dung, kết luận chung, kiến nghị xử lý và khắc phục."
 ---
 
 # Soạn kết luận thanh tra

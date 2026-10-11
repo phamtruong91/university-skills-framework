@@ -1,6 +1,6 @@
 ---
 name: "ho-so-quan-ly-suc-khoe"
-description: "Xây dựng mẫu sổ theo dõi sức khỏe và quy trình quản lý hồ sơ sức khỏe CBVC/sinh viên, hồ sơ BHYT của Trạm Y tế. Dùng khi chuẩn hóa công tác lưu trữ, theo dõi sức khỏe trong trường."
+description: "Dùng khi Trạm Y tế thiết lập hoặc chuẩn hóa sổ theo dõi sức khỏe, hồ sơ khám định kỳ, hồ sơ bảo hiểm y tế của cán bộ, sinh viên và quy trình quản lý, bảo mật các hồ sơ này."
 ---
 
 # Hồ sơ quản lý sức khỏe

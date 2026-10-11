@@ -1,6 +1,6 @@
 ---
 name: "soan-ke-hoach-ct"
-description: "Soạn kế hoạch công tác tháng / quý / năm của đơn vị trong trường đại học (mục đích, nhiệm vụ chi tiết, phân công, thời gian, kinh phí). Dùng khi phòng ban, khoa lập kế hoạch công tác định kỳ."
+description: "Dùng khi phòng, ban, khoa lập kế hoạch công tác tháng, quý, năm hoặc kế hoạch triển khai một nhiệm vụ, đợt công tác cụ thể: mục đích, nhiệm vụ, phân công, thời gian, kinh phí."
 ---
 
 # Soạn kế hoạch công tác

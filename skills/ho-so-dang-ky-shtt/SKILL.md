@@ -1,6 +1,6 @@
 ---
 name: "ho-so-dang-ky-shtt"
-description: "Soạn hồ sơ đăng ký sáng chế / giải pháp hữu ích tại Cục Sở hữu trí tuệ: tờ khai, bản mô tả, yêu cầu bảo hộ, bản tóm tắt, hình vẽ minh họa; đối chiếu tính mới và trình độ sáng tạo trong quá trình chuẩn bị. Dùng khi giảng viên, nhóm nghiên cứu muốn bảo hộ kết quả nghiên cứu."
+description: "Dùng khi giảng viên, nhóm nghiên cứu muốn bảo hộ kết quả nghiên cứu bằng sáng chế hoặc giải pháp hữu ích tại Cục Sở hữu trí tuệ: tờ khai, bản mô tả, yêu cầu bảo hộ, hình vẽ."
 ---
 
 # Hồ sơ đăng ký sáng chế / giải pháp hữu ích

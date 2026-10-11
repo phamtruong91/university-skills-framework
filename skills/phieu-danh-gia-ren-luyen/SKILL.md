@@ -1,6 +1,6 @@
 ---
 name: "phieu-danh-gia-ren-luyen"
-description: "Lập phiếu đánh giá kết quả rèn luyện của sinh viên theo Thông tư 16/2015/TT-BGDĐT kèm hướng dẫn chấm điểm chi tiết. Dùng khi Phòng Công tác sinh viên cần triển khai đánh giá rèn luyện cuối mỗi học kỳ: phát phiếu cho sinh viên tự đánh giá, lớp họp bình xét, cố vấn học tập và hội đồng khoa chấm điểm."
+description: "Dùng cho thời điểm cuối mỗi học kỳ, khi Phòng Công tác sinh viên tổ chức đánh giá rèn luyện theo Thông tư 16/2015/TT-BGDĐT: phiếu tự đánh giá của sinh viên, bình xét của lớp, chấm của cố vấn học tập và hội đồng khoa."
 ---
 
 # Lập phiếu đánh giá kết quả rèn luyện sinh viên + hướng dẫn chấm

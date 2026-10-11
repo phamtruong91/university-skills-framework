@@ -1,6 +1,6 @@
 ---
 name: "thong-bao-hoc-bong"
-description: "Soạn thông báo học bổng của trường đại học đúng thể thức hành chính. Dùng khi Phòng Công tác sinh viên cần công bố học bổng khuyến khích học tập, học bổng tài trợ của doanh nghiệp/tổ chức, hoặc học bổng chính sách đến sinh viên."
+description: "Dùng khi Phòng Công tác sinh viên công bố học bổng khuyến khích học tập, học bổng tài trợ của doanh nghiệp, tổ chức hoặc học bổng chính sách đến sinh viên."
 ---
 
 # Soạn thông báo học bổng

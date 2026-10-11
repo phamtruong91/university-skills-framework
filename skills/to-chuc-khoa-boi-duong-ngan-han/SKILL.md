@@ -1,6 +1,6 @@
 ---
 name: "to-chuc-khoa-boi-duong-ngan-han"
-description: "Lập kế hoạch chi tiết tổ chức một khóa bồi dưỡng ngắn hạn: giảng viên, học liệu, hậu cần, tuyển sinh, đánh giá và cấp chứng chỉ. Dùng khi triển khai từng khóa trong kế hoạch năm."
+description: "Dùng khi triển khai một khóa bồi dưỡng ngắn hạn cụ thể trong kế hoạch năm: giảng viên, học liệu, tuyển sinh, hậu cần, đánh giá và cấp chứng chỉ."
 ---
 
 # Tổ chức khóa bồi dưỡng ngắn hạn

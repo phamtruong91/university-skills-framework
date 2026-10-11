@@ -1,6 +1,6 @@
 ---
 name: "kich-ban-video-truyen-thong"
-description: "Viết kịch bản video truyền thông từng cảnh: hình ảnh, lời thoại/voice-over, âm thanh, thời lượng, yêu cầu quay dựng. Dùng cho video giới thiệu trường, tuyển sinh, sự kiện."
+description: "Dùng khi cần kịch bản video theo từng cảnh: giới thiệu trường, ngành, quảng bá tuyển sinh, tóm tắt sự kiện, phỏng vấn, video ngắn cho TikTok, Reels; gồm hình ảnh, lời thoại, âm thanh, thời lượng."
 ---
 
 # Kịch bản video truyền thông

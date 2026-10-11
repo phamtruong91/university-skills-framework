@@ -1,6 +1,6 @@
 ---
 name: "soan-thong-bao"
-description: "Soạn thông báo nội bộ của trường đại học (lịch nghỉ lễ, cuộc họp, quy định mới, tuyển dụng, học bổng...), ngắn gọn, rõ đối tượng, rõ thời hạn. Dùng khi cần thông tin chính thức tới toàn trường hoặc một nhóm đối tượng. Không dùng cho văn bản chỉ đạo/quy phạm (dùng soan-quyet-dinh-hc) hay thư mời (dùng soan-giay-moi)."
+description: "Dùng khi cần thông tin chính thức tới toàn trường hoặc một nhóm đối tượng: lịch nghỉ, triệu tập họp, quy định mới, học bổng, tuyển dụng, kết quả; ngắn gọn, rõ đối tượng và thời hạn. Không dùng cho văn bản chỉ đạo/quy phạm (dùng soan-quyet-dinh-hc) hay thư mời (dùng soan-giay-moi)."
 ---
 
 # Soạn thông báo
@@ -25,6 +25,9 @@ AI hỗ trợ chuẩn bị và đối chiếu; cán bộ phụ trách kiểm tra
 ## Khi nào dùng
 Khi cần thông tin chính thức đến toàn thể hoặc một nhóm đối tượng trong trường: lịch nghỉ,
 triệu tập họp, quy định mới, kế hoạch, kết quả...
+
+## Khi nào KHÔNG dùng
+- Không dùng cho văn bản chỉ đạo/quy phạm (dùng `soan-quyet-dinh-hc`) hay thư mời (dùng `soan-giay-moi`).
 
 ## Đầu vào (Input)
 

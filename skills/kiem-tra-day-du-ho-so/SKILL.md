@@ -1,6 +1,6 @@
 ---
 name: "kiem-tra-day-du-ho-so"
-description: "Đối chiếu hồ sơ với danh mục checklist: phát hiện thành phần thiếu, giấy tờ không hợp lệ (sai mẫu, hết hạn, thiếu chữ ký) → bảng đủ/thiếu + câu hỏi và dự thảo hướng dẫn bổ sung. Dùng khi tiếp nhận hồ sơ cần kiểm tra đủ/thiếu, bất kỳ loại hồ sơ nào trong trường (tuyển dụng, bổ nhiệm, khen thưởng, học bổng, tốt nghiệp...)."
+description: "Dùng khi tiếp nhận bất kỳ bộ hồ sơ nào (tuyển dụng, bổ nhiệm, khen thưởng, học bổng, miễn giảm học phí, tốt nghiệp, thanh quyết toán) và cần kiểm tra đủ, thiếu, hợp lệ trước khi xử lý. Dùng chung mọi phòng ban."
 ---
 
 # Kiểm tra đầy đủ hồ sơ

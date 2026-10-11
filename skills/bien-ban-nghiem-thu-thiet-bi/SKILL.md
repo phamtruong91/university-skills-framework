@@ -1,6 +1,6 @@
 ---
 name: "bien-ban-nghiem-thu-thiet-bi"
-description: "Lập biên bản nghiệm thu, bàn giao trang thiết bị mua sắm (đối chiếu hợp đồng, kiểm tra số lượng – chủng loại – tình trạng – chạy thử, ghi nhận đạt/không đạt). Dùng khi Phòng Quản trị – Thiết bị cùng đơn vị sử dụng tiếp nhận thiết bị từ nhà thầu."
+description: "Dùng khi thiết bị đã giao, lắp đặt xong và cần nghiệm thu trước khi thanh toán, hoặc khi bàn giao cho đơn vị sử dụng: đối chiếu hợp đồng, số lượng, chủng loại, tình trạng, chạy thử."
 ---
 
 # Lập biên bản nghiệm thu thiết bị

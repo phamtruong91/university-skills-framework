@@ -1,6 +1,6 @@
 ---
 name: "ho-so-quyet-toan-de-tai"
-description: "Kiểm tra và soạn hồ sơ thanh quyết toán kinh phí đề tài nghiên cứu khoa học: phân loại chứng từ theo nội dung chi (thuê khoán, vật tư, hội thảo, công tác phí...), đối chiếu với dự toán được duyệt, lập bảng quyết toán và checklist hồ sơ. Dùng khi đề tài kết thúc hoặc đến kỳ thanh toán kinh phí."
+description: "Dùng khi đề tài NCKH cần thanh toán đợt hoặc quyết toán kinh phí: phân loại chứng từ theo nội dung chi, đối chiếu dự toán được duyệt, kiểm tra hồ sơ trước khi nộp Phòng KHCN, Phòng Tài chính."
 ---
 
 # Hồ sơ thanh quyết toán kinh phí đề tài

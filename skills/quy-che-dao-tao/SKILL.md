@@ -1,6 +1,6 @@
 ---
 name: "quy-che-dao-tao"
-description: "Soạn mới hoặc sửa đổi, bổ sung quy chế đào tạo trình độ đại học của trường theo quy chế khung tại Thông tư 56/2026/TT-BGDĐT (tổ chức đào tạo, đánh giá học phần, công tác học vụ, tốt nghiệp, xử lý vi phạm). Dùng khi ban hành lần đầu hoặc cập nhật quy chế đào tạo của trường."
+description: "Dùng khi nhà trường ban hành lần đầu hoặc sửa đổi quy chế đào tạo trình độ đại học, đối chiếu quy chế khung tại Thông tư 56/2026/TT-BGDĐT: tổ chức đào tạo, đánh giá học phần, học vụ, tốt nghiệp, xử lý vi phạm."
 ---
 
 # Soạn/sửa đổi quy chế đào tạo của trường

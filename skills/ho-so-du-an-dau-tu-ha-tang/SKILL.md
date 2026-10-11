@@ -1,6 +1,6 @@
 ---
 name: "ho-so-du-an-dau-tu-ha-tang"
-description: "Soạn hồ sơ đề xuất dự án đầu tư hạ tầng của trường: mục tiêu, quy mô, tổng mức đầu tư, nguồn vốn, hiệu quả, tiến độ. Dùng khi chuẩn bị trình phê duyệt chủ trương đầu tư."
+description: "Dùng khi trường chuẩn bị dự án đầu tư xây dựng hoặc mua sắm hạ tầng (giảng đường, ký túc xá, phòng thí nghiệm, hạ tầng số) và cần hồ sơ trình phê duyệt chủ trương đầu tư: mục tiêu, quy mô, tổng mức, nguồn vốn, hiệu quả."
 ---
 
 # Hồ sơ dự án đầu tư hạ tầng

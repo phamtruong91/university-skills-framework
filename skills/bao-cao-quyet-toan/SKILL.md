@@ -1,6 +1,6 @@
 ---
 name: "bao-cao-quyet-toan"
-description: "Soạn báo cáo quyết toán ngân sách năm của trường đại học, so sánh dự toán với thực hiện và giải trình chênh lệch. Dùng khi Phòng Tài chính – Kế toán tổng kết tình hình thu – chi ngân sách đã kết thúc năm để trình duyệt quyết toán."
+description: "Dùng khi kết thúc năm ngân sách và Phòng Tài chính – Kế toán cần báo cáo quyết toán trình duyệt: đối chiếu dự toán với thực hiện, giải trình chênh lệch lớn, kiến nghị năm sau."
 ---
 
 # Soạn báo cáo quyết toán ngân sách năm

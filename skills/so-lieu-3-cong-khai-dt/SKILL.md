@@ -1,6 +1,6 @@
 ---
 name: "so-lieu-3-cong-khai-dt"
-description: "Tổng hợp số liệu 3 công khai mảng đào tạo của trường đại học theo Thông tư 09/2024/TT-BGDĐT: công khai chất lượng đào tạo, điều kiện đảm bảo chất lượng, và thu chi tài chính mảng đào tạo. Dùng khi cần lập bộ bảng 3 công khai hằng năm để đăng website trường và báo cáo Bộ GD&ĐT. Không dùng cho báo cáo 3 công khai tổng hợp toàn trường (dùng bao-cao-3-cong-khai)."
+description: "Dùng khi đến kỳ công khai hằng năm và cần lập bộ bảng số liệu 3 công khai mảng đào tạo theo Thông tư 09/2024/TT-BGDĐT để đăng website và báo cáo Bộ GD&ĐT. Không dùng cho báo cáo 3 công khai tổng hợp toàn trường (dùng bao-cao-3-cong-khai)."
 ---
 
 # Tổng hợp số liệu 3 công khai mảng đào tạo
@@ -30,6 +30,9 @@ Khi đến kỳ công khai thông tin theo năm học (định kỳ hằng năm,
 tổng hợp 3 nhóm nội dung — (1) công khai chất lượng đào tạo, (2) công khai điều kiện đảm bảo chất lượng,
 (3) công khai thu chi tài chính mảng đào tạo — từ số liệu của Phòng Đào tạo, Phòng TC-KT, Phòng TCCB,
 Phòng Quản trị – Thiết bị để công bố trên website và báo cáo cơ quan chủ quản.
+
+## Khi nào KHÔNG dùng
+- Không dùng cho báo cáo 3 công khai tổng hợp toàn trường (dùng `bao-cao-3-cong-khai`).
 
 ## Đầu vào (Input)
 | Trường | Mô tả | Bắt buộc |

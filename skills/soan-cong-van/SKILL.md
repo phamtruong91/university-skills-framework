@@ -1,6 +1,6 @@
 ---
 name: "soan-cong-van"
-description: "Soạn công văn đi của trường đại học đúng thể thức Nghị định 30/2020/NĐ-CP về công tác văn thư. Dùng khi cần trao đổi, phúc đáp, đề nghị, thông báo với cơ quan, tổ chức, cá nhân ngoài trường hoặc giữa các đơn vị trong trường."
+description: "Dùng khi cần ban hành công văn đi đúng thể thức Nghị định 30/2020/NĐ-CP: phúc đáp, đề nghị phối hợp, thông báo, giải trình với cơ quan ngoài trường hoặc giữa các đơn vị trong trường."
 ---
 
 # Soạn công văn đi

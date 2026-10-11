@@ -1,6 +1,6 @@
 ---
 name: "bao-cao-tong-hop-phan-hieu"
-description: "Soạn báo cáo tổng hợp của Phân hiệu / Cơ sở đào tạo gửi trường mẹ: đào tạo, công tác sinh viên, KHCN, tài chính, cơ sở vật chất. Dùng khi báo cáo định kỳ (học kỳ/năm) hoặc đột xuất."
+description: "Dùng khi phân hiệu hoặc cơ sở đào tạo báo cáo định kỳ (học kỳ, năm học) hoặc đột xuất gửi Ban Giám hiệu trường mẹ: đào tạo, công tác sinh viên, KHCN, tài chính, cơ sở vật chất."
 ---
 
 # Soạn báo cáo tổng hợp phân hiệu

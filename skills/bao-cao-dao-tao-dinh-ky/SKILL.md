@@ -1,6 +1,6 @@
 ---
 name: "bao-cao-dao-tao-dinh-ky"
-description: "Soạn báo cáo công tác đào tạo định kỳ (học kỳ/năm học) của trường đại học: tổng hợp quy mô sinh viên, kết quả học tập, tốt nghiệp, đội ngũ giảng viên, cơ sở vật chất; đánh giá thuận lợi/khó khăn và phương hướng kỳ tới. Dùng khi cần báo cáo sơ kết học kỳ, tổng kết năm học hoặc báo cáo cơ quan quản lý."
+description: "Dùng khi sơ kết học kỳ, tổng kết năm học hoặc báo cáo cơ quan chủ quản về đào tạo: quy mô sinh viên, kết quả học tập, tốt nghiệp, đội ngũ giảng viên, cơ sở vật chất."
 ---
 
 # Báo cáo công tác đào tạo định kỳ

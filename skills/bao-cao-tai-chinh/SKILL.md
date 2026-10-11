@@ -1,6 +1,6 @@
 ---
 name: "bao-cao-tai-chinh"
-description: "Lập báo cáo tài chính năm của trường đại học theo chế độ kế toán hành chính sự nghiệp (Thông tư 24/2024/TT-BTC). Dùng khi Phòng Tài chính – Kế toán khóa sổ năm và lập bộ báo cáo tài chính gồm Bảng cân đối kế toán, Báo cáo kết quả hoạt động và Báo cáo lưu chuyển tiền tệ. Không dùng cho báo cáo công khai tài chính (dùng bao-cao-cong-khai-tai-chinh)."
+description: "Dùng khi khóa sổ năm và Phòng Tài chính – Kế toán lập bộ báo cáo tài chính theo chế độ kế toán hành chính sự nghiệp (Thông tư 24/2024/TT-BTC): cân đối kế toán, kết quả hoạt động, lưu chuyển tiền tệ. Không dùng cho báo cáo công khai tài chính (dùng bao-cao-cong-khai-tai-chinh)."
 ---
 
 # Lập báo cáo tài chính (chế độ kế toán HCSN)
@@ -29,6 +29,9 @@ AI hỗ trợ chuẩn bị và đối chiếu; cán bộ phụ trách kiểm tra
 Khi kết thúc năm tài chính, cần lập bộ báo cáo tài chính của đơn vị hành chính sự nghiệp
 theo văn bản hiện hành nêu tại phap-ly.md: Bảng cân đối kế toán, Báo cáo kết quả hoạt động,
 Báo cáo lưu chuyển tiền tệ và Thuyết minh báo cáo tài chính.
+
+## Khi nào KHÔNG dùng
+- Không dùng cho báo cáo công khai tài chính (dùng `bao-cao-cong-khai-tai-chinh`).
 
 ## Đầu vào (Input)
 | Trường | Mô tả | Bắt buộc |

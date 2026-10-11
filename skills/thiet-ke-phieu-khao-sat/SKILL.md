@@ -1,6 +1,6 @@
 ---
 name: "thiet-ke-phieu-khao-sat"
-description: "Thiết kế phiếu khảo sát các bên liên quan của trường đại học (sinh viên, giảng viên, cựu sinh viên, nhà tuyển dụng) phục vụ đảm bảo chất lượng. Dùng khi cần thu thập ý kiến để cải tiến chương trình đào tạo, dịch vụ."
+description: "Dùng khi cần thu thập ý kiến sinh viên, giảng viên, cựu sinh viên hoặc nhà tuyển dụng về chương trình đào tạo, chất lượng giảng dạy, dịch vụ hỗ trợ, chuẩn đầu ra để cải tiến."
 ---
 
 # Thiết kế phiếu khảo sát các bên liên quan

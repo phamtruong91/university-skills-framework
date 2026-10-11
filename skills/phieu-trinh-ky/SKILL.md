@@ -1,6 +1,6 @@
 ---
 name: "phieu-trinh-ky"
-description: "Lập phiếu trình ký văn bản trình lãnh đạo trường đại học (tóm tắt nội dung, ý kiến đề xuất của đơn vị soạn thảo, phần ý kiến lãnh đạo). Dùng khi đơn vị trình văn bản, hồ sơ lên Hiệu trưởng / Phó Hiệu trưởng ký duyệt."
+description: "Dùng khi đơn vị trình văn bản, hồ sơ (quyết định, kế hoạch, báo cáo, tờ trình, hợp đồng) lên Hiệu trưởng hoặc Phó Hiệu trưởng ký duyệt và cần phiếu trình ký: tóm tắt, ý kiến đề xuất, phần ý kiến lãnh đạo."
 ---
 
 # Lập phiếu trình ký

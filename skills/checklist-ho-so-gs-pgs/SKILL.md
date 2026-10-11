@@ -1,6 +1,6 @@
 ---
 name: "checklist-ho-so-gs-pgs"
-description: "Rà soát hồ sơ ứng viên xét công nhận chức danh Giáo sư / Phó giáo sư theo checklist tiêu chuẩn và soạn báo cáo thẩm định hồ sơ. Dùng khi phòng Tổ chức – Cán bộ tiếp nhận, kiểm tra hồ sơ ứng viên GS/PGS trước khi trình Hội đồng."
+description: "Dùng khi Phòng Tổ chức – Cán bộ tiếp nhận hồ sơ ứng viên xét công nhận chức danh Giáo sư, Phó giáo sư và cần kiểm tra tính đầy đủ, hợp lệ, đối chiếu tiêu chuẩn trước khi trình Hội đồng."
 ---
 
 # Checklist hồ sơ xét công nhận GS/PGS + báo cáo thẩm định

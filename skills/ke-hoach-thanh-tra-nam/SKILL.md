@@ -1,6 +1,6 @@
 ---
 name: "ke-hoach-thanh-tra-nam"
-description: "Lập kế hoạch thanh tra nội bộ năm của trường đại học: xác định lĩnh vực thanh tra (đào tạo, tuyển sinh, thi cử, tài chính...), đối tượng, thời gian, đoàn thanh tra và phương pháp. Dùng khi Phòng Thanh tra & Pháp chế xây dựng kế hoạch thanh tra hằng năm trình Hiệu trưởng phê duyệt. Không dùng cho kế hoạch kiểm toán nội bộ (dùng ke-hoach-kiem-toan-noi-bo)."
+description: "Dùng khi Phòng Thanh tra & Pháp chế lập kế hoạch thanh tra nội bộ hằng năm trình Hiệu trưởng, kể cả điều chỉnh giữa năm hoặc bổ sung cuộc thanh tra đột xuất: lĩnh vực, đối tượng, thời gian, đoàn thanh tra. Không dùng cho kế hoạch kiểm toán nội bộ (dùng ke-hoach-kiem-toan-noi-bo)."
 ---
 
 # Lập kế hoạch thanh tra nội bộ năm
@@ -26,6 +26,9 @@ AI hỗ trợ chuẩn bị và đối chiếu; cán bộ phụ trách kiểm tra
 Khi cần xây dựng kế hoạch thanh tra nội bộ hằng năm của trường: đầu năm học/năm tài chính,
 khi có yêu cầu tăng cường kiểm tra một lĩnh vực có rủi ro cao, hoặc khi rà soát lại kế hoạch
 giữa năm để điều chỉnh, bổ sung cuộc thanh tra đột xuất.
+
+## Khi nào KHÔNG dùng
+- Không dùng cho kế hoạch kiểm toán nội bộ (dùng `ke-hoach-kiem-toan-noi-bo`).
 
 ## Đầu vào (Input)
 

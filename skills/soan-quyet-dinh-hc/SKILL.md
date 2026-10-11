@@ -1,6 +1,6 @@
 ---
 name: "soan-quyet-dinh-hc"
-description: "Soạn quyết định hành chính của trường đại học đúng thể thức Nghị định 30/2020/NĐ-CP (thành lập tổ chức, ban hành văn bản, điều động, khen thưởng...). Dùng khi cần ban hành quyết định cá biệt của Hiệu trưởng / Hội đồng trường. Không dùng cho quyết định khen thưởng/kỷ luật viên chức, người lao động (dùng quyet-dinh-khen-thuong-kl)."
+description: "Dùng khi Hiệu trưởng hoặc Hội đồng trường ban hành quyết định cá biệt: thành lập, giải thể đơn vị, ban hành quy chế, điều động, bổ nhiệm, khen thưởng hoặc kỷ luật sinh viên, phê duyệt kế hoạch, đề án. Không dùng cho quyết định khen thưởng/kỷ luật viên chức, người lao động (dùng quyet-dinh-khen-thuong-kl)."
 ---
 
 # Soạn quyết định hành chính
@@ -25,6 +25,9 @@ AI hỗ trợ chuẩn bị và đối chiếu; cán bộ phụ trách kiểm tra
 ## Khi nào dùng
 Khi ban hành quyết định: thành lập / giải thể đơn vị, ban hành quy chế – quy định,
 điều động – bổ nhiệm, khen thưởng – kỷ luật sinh viên (khen thưởng/kỷ luật viên chức, người lao động dùng quyet-dinh-khen-thuong-kl), phê duyệt kế hoạch – đề án.
+
+## Khi nào KHÔNG dùng
+- Không dùng cho quyết định khen thưởng/kỷ luật viên chức, người lao động (dùng `quyet-dinh-khen-thuong-kl`).
 
 ## Đầu vào (Input)
 

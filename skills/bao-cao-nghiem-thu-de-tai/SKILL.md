@@ -1,6 +1,6 @@
 ---
 name: "bao-cao-nghiem-thu-de-tai"
-description: "Soạn bộ hồ sơ nghiệm thu đề tài NCKH gồm 2 phần: (1) Báo cáo tổng kết đề tài và (2) Biên bản nghiệm thu của Hội đồng. Dùng khi đề tài kết thúc thời gian thực hiện, chuẩn bị họp hội đồng nghiệm thu và thanh lý hợp đồng."
+description: "Dùng khi đề tài NCKH hết thời gian thực hiện và cần bộ hồ sơ nghiệm thu: báo cáo tổng kết của chủ nhiệm và biên bản nghiệm thu của hội đồng, làm căn cứ thanh lý hợp đồng."
 ---
 
 # Báo cáo nghiệm thu đề tài NCKH (tổng kết + biên bản hội đồng)
@@ -29,6 +29,9 @@ AI hỗ trợ chuẩn bị và đối chiếu; cán bộ phụ trách kiểm tra
 Khi đề tài đã hết thời gian thực hiện (hoặc hoàn thành sớm): chủ nhiệm soạn Báo cáo
 tổng kết; Phòng KHCN soạn Biên bản nghiệm thu để Hội đồng họp đánh giá, xếp loại.
 Bộ hồ sơ này là căn cứ để thanh lý hợp đồng và quyết toán kinh phí.
+
+## Khi nào KHÔNG dùng
+- Chỉ cần báo cáo tiến độ giữa kỳ: dùng `bao-cao-tien-do-de-tai`.
 
 ## Đầu vào (Input)
 | Trường | Mô tả | Bắt buộc |

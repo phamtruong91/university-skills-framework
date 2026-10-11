@@ -1,6 +1,6 @@
 ---
 name: "quy-trinh-tuyen-dung"
-description: "Trọn gói quy trình tuyển dụng viên chức trường đại học theo Nghị định 259/2026/NĐ-CP: xây dựng kế hoạch → thông báo tuyển dụng → tiếp nhận hồ sơ → xét tuyển → quyết định trúng tuyển → ký hợp đồng. Dùng khi trường cần tuyển mới viên chức (giảng viên, chuyên viên, kỹ thuật viên)."
+description: "Dùng khi Nhà trường có nhu cầu tuyển mới viên chức (giảng viên, chuyên viên, kỹ thuật viên) và cần triển khai trọn một đợt tuyển dụng theo Nghị định 259/2026/NĐ-CP, từ kế hoạch đến ký hợp đồng."
 ---
 
 # Quy trình tuyển dụng viên chức

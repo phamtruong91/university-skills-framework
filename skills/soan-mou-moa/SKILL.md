@@ -1,6 +1,6 @@
 ---
 name: "soan-mou-moa"
-description: "Soạn biên bản ghi nhớ (MOU) / thỏa thuận hợp tác (MOA) SONG NGỮ Việt–Anh cho trường đại học: các điều khoản mục đích, lĩnh vực hợp tác, trách nhiệm các bên, thời hạn, điều khoản chung. Dùng khi ký kết hợp tác với đối tác trong nước hoặc quốc tế."
+description: "Dùng khi trường chuẩn bị ký kết hợp tác với đối tác trong nước hoặc quốc tế và cần soạn biên bản ghi nhớ (MOU) hay thỏa thuận hợp tác (MOA) song ngữ Việt–Anh: mục đích, lĩnh vực, trách nhiệm hai bên, thời hạn."
 ---
 
 # Soạn biên bản ghi nhớ / thỏa thuận hợp tác (MOU/MOA) song ngữ Việt–Anh

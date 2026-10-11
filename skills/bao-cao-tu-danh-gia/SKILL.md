@@ -1,6 +1,6 @@
 ---
 name: "bao-cao-tu-danh-gia"
-description: "Soạn báo cáo tự đánh giá cơ sở giáo dục hoặc chương trình đào tạo của trường đại học theo bộ tiêu chuẩn kiểm định (Thông tư 20/2026/TT-BGDĐT cho CSGD, Thông tư 04/2025/TT-BGDĐT cho CTĐT). Dùng khi chuẩn bị kiểm định chất lượng giáo dục."
+description: "Dùng khi trường tự đánh giá cơ sở giáo dục (Thông tư 20/2026/TT-BGDĐT) hoặc chương trình đào tạo (Thông tư 04/2025/TT-BGDĐT) để chuẩn bị đăng ký kiểm định chất lượng."
 ---
 
 # Báo cáo tự đánh giá (kiểm định chất lượng)

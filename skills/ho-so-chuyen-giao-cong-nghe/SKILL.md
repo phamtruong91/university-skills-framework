@@ -1,6 +1,6 @@
 ---
 name: "ho-so-chuyen-giao-cong-nghe"
-description: "Soạn hồ sơ chuyển giao công nghệ của Viện Đổi mới sáng tạo và Chuyển giao công nghệ: mô tả công nghệ, định giá, điều khoản thương thảo, biên bản chuyển giao. Dùng khi chuyển giao kết quả NCKH cho doanh nghiệp/tổ chức."
+description: "Dùng khi Viện Đổi mới sáng tạo và Chuyển giao công nghệ chuyển giao kết quả nghiên cứu (sáng chế, giải pháp, quy trình, phần mềm) cho doanh nghiệp, tổ chức và cần mô tả công nghệ, định giá, điều khoản, biên bản chuyển giao."
 ---
 
 # Hồ sơ chuyển giao công nghệ

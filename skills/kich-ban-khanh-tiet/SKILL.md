@@ -1,6 +1,6 @@
 ---
 name: "kich-ban-khanh-tiet"
-description: "Xây dựng kịch bản lễ tân, khánh tiết cho sự kiện của trường đại học (đón tiếp đại biểu, điều hành chương trình theo timeline, phân công hậu cần). Dùng khi Phòng Hành chính – Tổng hợp tổ chức lễ khai giảng, kỷ niệm, hội nghị, đón đoàn khách."
+description: "Dùng khi Phòng Hành chính – Tổng hợp tổ chức lễ khai giảng, kỷ niệm, hội nghị hoặc đón đoàn khách và cần kịch bản lễ tân, khánh tiết: đón đại biểu, điều hành chương trình theo giờ, phân công hậu cần."
 ---
 
 # Xây dựng kịch bản lễ tân, khánh tiết

@@ -1,6 +1,6 @@
 ---
 name: "lap-du-toan-nam"
-description: "Lập dự toán thu – chi ngân sách năm của trường đại học, cân đối thu = chi trước khi trình duyệt. Dùng khi Phòng Tài chính – Kế toán xây dựng kế hoạch ngân sách năm học/năm tài chính mới từ số liệu các nguồn thu và nội dung chi."
+description: "Dùng khi Phòng Tài chính – Kế toán xây dựng dự toán thu – chi ngân sách cho năm học hoặc năm tài chính mới, cân đối thu bằng chi và trình cấp có thẩm quyền duyệt."
 ---
 
 # Lập dự toán thu – chi ngân sách năm

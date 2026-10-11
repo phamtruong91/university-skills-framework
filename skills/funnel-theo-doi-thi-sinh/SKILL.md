@@ -1,6 +1,6 @@
 ---
 name: "funnel-theo-doi-thi-sinh"
-description: "Theo dõi thí sinh theo phễu tuyển sinh: nhóm lead theo giai đoạn (biết đến → quan tâm → nộp hồ sơ → trúng tuyển → nhập học), checklist hồ sơ, báo cáo tỉ lệ chuyển đổi. Dùng trong suốt chiến dịch tuyển sinh. Dùng khi trong chiến dịch tuyển sinh cần quản lý thí sinh tiềm năng theo từng giai đoạn phễu."
+description: "Dùng cho thời điểm trong chiến dịch tuyển sinh, khi cần quản lý thí sinh tiềm năng theo từng giai đoạn (biết đến, quan tâm, nộp hồ sơ, trúng tuyển, nhập học), đôn đốc hồ sơ và báo cáo tỷ lệ chuyển đổi."
 ---
 
 # Funnel theo dõi thí sinh

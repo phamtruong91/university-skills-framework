@@ -1,6 +1,6 @@
 ---
 name: "quy-trinh-bo-nhiem"
-description: "Checklist và soạn trọn bộ hồ sơ bổ nhiệm / bổ nhiệm lại / miễn nhiệm cán bộ quản lý trường đại học (trưởng, phó các đơn vị): tờ trình, biên bản lấy phiếu tín nhiệm, quyết định bổ nhiệm. Dùng khi kiện toàn nhân sự lãnh đạo, quản lý các khoa, phòng, trung tâm."
+description: "Dùng khi Nhà trường bổ nhiệm mới, bổ nhiệm lại hoặc miễn nhiệm cán bộ quản lý (trưởng, phó khoa, phòng, ban, trung tâm) và cần danh mục kiểm các bước cùng bộ hồ sơ: tờ trình, biên bản lấy phiếu tín nhiệm, quyết định."
 ---
 
 # Quy trình bổ nhiệm, bổ nhiệm lại, miễn nhiệm

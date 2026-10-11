@@ -1,6 +1,6 @@
 ---
 name: "quyet-dinh-hoc-vu"
-description: "Soạn quyết định xử lý học vụ sinh viên (cảnh báo học vụ, buộc thôi học, bảo lưu kết quả học tập, chuyển trường) đúng thể thức Nghị định 30/2020/NĐ-CP. Dùng khi kết thúc học kỳ/năm học cần xử lý học vụ theo quy chế đào tạo."
+description: "Dùng khi kết thúc học kỳ hoặc năm học và cần ban hành quyết định xử lý học vụ sinh viên (cảnh báo, buộc thôi học, bảo lưu kết quả, chuyển trường) theo quy chế đào tạo, đúng thể thức Nghị định 30/2020/NĐ-CP."
 ---
 
 # Soạn quyết định xử lý học vụ

@@ -1,6 +1,6 @@
 ---
 name: "tham-dinh-phap-ly-van-ban"
-description: "Rà soát, cho ý kiến pháp lý đối với dự thảo văn bản nội bộ của trường đại học: kiểm tra thẩm quyền ban hành, căn cứ pháp lý, tính thống nhất với văn bản cấp trên và văn bản nội bộ hiện hành, thể thức theo Nghị định 30/2020/NĐ-CP. Dùng khi đơn vị trình dự thảo văn bản nội bộ cần ý kiến pháp lý. Kết quả: phiếu ý kiến pháp lý một trong ba mức (đồng ý / đồng ý có điều kiện / không đồng ý kèm lý do)."
+description: "Dùng khi một đơn vị trình dự thảo văn bản nội bộ (quy định, quy chế, hướng dẫn) và cần ý kiến pháp lý về thẩm quyền, căn cứ, tính thống nhất, thể thức trước khi Hiệu trưởng ký."
 ---
 
 # Thẩm định pháp lý dự thảo văn bản nội bộ

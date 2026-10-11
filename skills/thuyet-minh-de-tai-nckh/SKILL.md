@@ -1,6 +1,6 @@
 ---
 name: "thuyet-minh-de-tai-nckh"
-description: "Soạn thuyết minh đề tài nghiên cứu khoa học đầy đủ các mục bắt buộc: tính cấp thiết, mục tiêu, nội dung nghiên cứu, phương pháp, sản phẩm dự kiến, kinh phí chi tiết, tiến độ. Dùng khi chủ nhiệm đề tài chuẩn bị hồ sơ đăng ký hoặc thuyết trình trước hội đồng xét duyệt."
+description: "Dùng khi chủ nhiệm đề tài chuẩn bị hồ sơ đăng ký hoặc bảo vệ trước hội đồng xét duyệt và cần soạn thuyết minh đề tài NCKH: tính cấp thiết, mục tiêu, nội dung, sản phẩm, kinh phí, tiến độ."
 ---
 
 # Soạn thuyết minh đề tài NCKH

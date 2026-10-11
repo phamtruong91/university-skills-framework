@@ -1,6 +1,6 @@
 ---
 name: "thong-bao-muc-thu-hoc-phi"
-description: "Soạn thông báo mức thu học phí / lệ phí năm học của trường đại học đúng thể thức văn bản hành chính. Dùng khi Phòng Tài chính – Kế toán cần công bố công khai mức thu học phí theo khối ngành và hệ đào tạo (chính quy, vừa làm vừa học) cho sinh viên, giảng viên và các đơn vị."
+description: "Dùng khi ban hành hoặc cập nhật mức thu học phí, lệ phí năm học mới theo khối ngành và hệ đào tạo (chính quy, vừa làm vừa học), kèm thời hạn và hình thức nộp."
 ---
 
 # Soạn thông báo mức thu học phí / lệ phí

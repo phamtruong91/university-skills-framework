@@ -1,6 +1,6 @@
 ---
 name: "bien-ban-kiem-ke-tai-san"
-description: "Lập biên bản kiểm kê tài sản cố định cuối năm của trường đại học (đối chiếu sổ sách – thực tế, ghi nhận chênh lệch, kiến nghị xử lý). Dùng khi Phòng Quản trị – Thiết bị tổ chức kiểm kê tài sản định kỳ hằng năm."
+description: "Dùng khi Phòng Quản trị – Thiết bị kiểm kê tài sản cố định, công cụ dụng cụ cuối năm hoặc đột xuất (bàn giao, sáp nhập, giải thể đơn vị): đối chiếu sổ sách với thực tế, chênh lệch, kiến nghị xử lý."
 ---
 
 # Lập biên bản kiểm kê tài sản

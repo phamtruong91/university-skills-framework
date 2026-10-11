@@ -1,6 +1,6 @@
 ---
 name: "khung-chuong-trinh-dao-tao"
-description: "Xây dựng khung chương trình đào tạo trình độ đại học theo Thông tư 54/2026/TT-BGDĐT (mục tiêu, chuẩn đầu ra PLO, cấu trúc khối kiến thức và tổng số tín chỉ, mô tả vắn tắt từng học phần). Dùng khi xây dựng mới hoặc rà soát, cập nhật chương trình đào tạo của một ngành."
+description: "Dùng khi xây dựng mới hoặc rà soát, cập nhật khung chương trình đào tạo trình độ đại học của một ngành theo Thông tư 54/2026/TT-BGDĐT: mục tiêu, chuẩn đầu ra, khối kiến thức, tổng số tín chỉ, học phần."
 ---
 
 # Xây dựng khung chương trình đào tạo

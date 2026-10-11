@@ -1,6 +1,6 @@
 ---
 name: "bao-cao-cong-tac-y-te"
-description: "Soạn báo cáo công tác y tế định kỳ (học kỳ/năm học/đột xuất) của Trạm Y tế: khám sức khỏe, phòng chống dịch bệnh, vệ sinh môi trường, BHYT. Dùng khi tổng kết gửi Ban Giám hiệu và cơ quan y tế cấp trên."
+description: "Dùng khi Trạm Y tế báo cáo định kỳ (học kỳ, năm học) hoặc đột xuất (dịch bệnh, sự cố y tế) gửi Ban Giám hiệu, Phòng CTSV và cơ quan y tế: khám sức khỏe, phòng chống dịch, vệ sinh môi trường, BHYT."
 ---
 
 # Soạn báo cáo công tác y tế

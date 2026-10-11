@@ -1,6 +1,6 @@
 ---
 name: "thong-bao-tuyen-sinh-sdh"
-description: "Soạn thông báo tuyển sinh trình độ thạc sĩ và tiến sĩ: chỉ tiêu từng ngành, điều kiện dự tuyển (văn bằng, kinh nghiệm, ngoại ngữ), hồ sơ, hình thức tuyển (xét tuyển/thi tuyển), thời gian đào tạo và học phí. Dùng khi Phòng Đào tạo SĐH công bố tuyển sinh sau đại học hằng năm/đợt. Không dùng cho tuyển sinh đại học (dùng thong-bao-tuyen-sinh)."
+description: "Dùng khi Phòng Đào tạo SĐH công bố tuyển sinh thạc sĩ, tiến sĩ cho từng đợt: chỉ tiêu ngành, điều kiện dự tuyển, hồ sơ, hình thức tuyển, học phí. Không dùng cho tuyển sinh đại học (dùng thong-bao-tuyen-sinh)."
 ---
 
 # Thông báo tuyển sinh thạc sĩ / tiến sĩ
@@ -25,6 +25,9 @@ AI hỗ trợ chuẩn bị và đối chiếu; cán bộ phụ trách kiểm tra
 ## Khi nào dùng
 Khi Phòng Đào tạo Sau đại học cần ban hành thông báo tuyển sinh trình độ thạc sĩ và/hoặc
 tiến sĩ cho từng đợt trong năm, theo chỉ tiêu và kế hoạch đã được phê duyệt.
+
+## Khi nào KHÔNG dùng
+- Không dùng cho tuyển sinh đại học (dùng `thong-bao-tuyen-sinh`).
 
 ## Đầu vào (Input)
 
