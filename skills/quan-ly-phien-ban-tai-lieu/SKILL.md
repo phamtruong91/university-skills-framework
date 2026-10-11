@@ -1,6 +1,6 @@
 ---
 name: "quan-ly-phien-ban-tai-lieu"
-description: "Kiểm kê thư mục tài liệu ở chế độ CHỈ ĐỌC: lập index, phát hiện file trùng lặp/phiên bản, đề xuất taxonomy và quy tắc đặt tên, liệt kê tài liệu thiếu. Tuyệt đối không xóa, di chuyển hay đổi tên bất kỳ file nào. Dùng khi đơn vị cần sắp xếp lại thư mục tài liệu mà chưa muốn thay đổi file nào."
+description: "Dùng khi thư mục tài liệu của đơn vị lộn xộn (nhiều bản final, final2, mới nhất) và cần kiểm kê, đề xuất cách sắp xếp, quy tắc đặt tên mà chỉ đọc, không xóa, di chuyển hay đổi tên file nào."
 ---
 
 # Quản lý file & phiên bản (chỉ đọc)

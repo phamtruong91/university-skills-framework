@@ -1,6 +1,6 @@
 ---
 name: "quyet-dinh-hoi-dong-bao-ve"
-description: "Soạn quyết định thành lập hội đồng đánh giá luận văn thạc sĩ / luận án tiến sĩ đúng thể thức Nghị định 30/2020/NĐ-CP. Dùng khi học viên cao học hoặc nghiên cứu sinh đủ điều kiện bảo vệ và cần thành lập hội đồng chấm theo tiêu chuẩn quy định."
+description: "Dùng khi học viên cao học hoặc nghiên cứu sinh đã đủ điều kiện bảo vệ và cần ban hành quyết định thành lập hội đồng đánh giá luận văn, luận án, đúng thể thức Nghị định 30/2020/NĐ-CP."
 ---
 
 # Quyết định thành lập hội đồng bảo vệ luận văn / luận án

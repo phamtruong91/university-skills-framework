@@ -1,6 +1,6 @@
 ---
 name: "pmo-quan-tri-du-an"
-description: "Quản trị dự án (PMO) cho Viện Đổi mới sáng tạo và Chuyển giao công nghệ: tracker tiến độ, issue log, risk log, lessons learned theo từng dự án. Dùng khi viện triển khai các dự án NCKH, chuyển giao, ươm tạo cần theo dõi tập trung."
+description: "Dùng khi Viện Đổi mới sáng tạo và Chuyển giao công nghệ hoặc đơn vị tương đương cần theo dõi một dự án đang chạy: tiến độ từng gói việc, vấn đề, rủi ro, bài học, bảng theo dõi một trang để trình lãnh đạo."
 ---
 
 # Quản trị dự án (PMO)

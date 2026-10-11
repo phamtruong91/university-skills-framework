@@ -1,6 +1,6 @@
 ---
 name: "bao-cao-tong-ket-nam-truong"
-description: "Tổng hợp báo cáo tổng kết năm học toàn trường đại học từ báo cáo của các phòng ban, khoa (đào tạo, NCKH, CTSV, TCCB, tài chính, CSVC, HTQT). Dùng khi Văn phòng / Phòng HCTH tổng hợp báo cáo tổng kết năm học."
+description: "Dùng khi Văn phòng hoặc Phòng HCTH tổng hợp báo cáo tổng kết năm học toàn trường từ báo cáo các phòng ban, khoa để trình Hội nghị cán bộ viên chức, cơ quan chủ quản, Bộ GD&ĐT."
 ---
 
 # Soạn báo cáo tổng kết năm học toàn trường

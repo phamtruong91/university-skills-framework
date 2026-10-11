@@ -1,6 +1,6 @@
 ---
 name: "ke-hoach-truyen-thong-nam"
-description: "Lập kế hoạch truyền thông năm của trường đại học: mục tiêu, thông điệp chủ đạo, kênh truyền thông, lịch chiến dịch theo đợt tuyển sinh/sự kiện, KPI đo lường. Dùng khi xây dựng kế hoạch năm hoặc điều chỉnh giữa năm."
+description: "Dùng khi Phòng Truyền thông và Tuyển sinh lập hoặc điều chỉnh kế hoạch truyền thông năm học: mục tiêu, thông điệp, kênh, lịch chiến dịch theo đợt tuyển sinh và sự kiện, ngân sách, chỉ số đánh giá."
 ---
 
 # Kế hoạch truyền thông năm

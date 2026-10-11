@@ -1,6 +1,6 @@
 ---
 name: "thong-bao-tuyen-sinh"
-description: "Soạn thông báo tuyển sinh đại học theo từng phương thức xét tuyển, rút trích từ đề án đã duyệt: đối tượng, điều kiện, hồ sơ, thời gian, lệ phí, địa chỉ nộp và link đăng ký. Dùng khi Phòng Đào tạo cần công bố thông tin tuyển sinh từng đợt/phương thức trên website và các kênh truyền thông. Không dùng cho tuyển sinh thạc sĩ/tiến sĩ (dùng thong-bao-tuyen-sinh-sdh)."
+description: "Dùng khi Phòng Đào tạo công bố thông tin tuyển sinh đại học cho một phương thức xét tuyển hoặc một đợt bổ sung, rút từ đề án đã duyệt: đối tượng, điều kiện, hồ sơ, thời gian, lệ phí. Không dùng cho tuyển sinh thạc sĩ/tiến sĩ (dùng thong-bao-tuyen-sinh-sdh)."
 ---
 
 # Soạn thông báo tuyển sinh theo phương thức
@@ -27,6 +27,9 @@ AI hỗ trợ chuẩn bị và đối chiếu; cán bộ phụ trách kiểm tra
 Khi cần ban hành thông báo tuyển sinh cho một phương thức xét tuyển cụ thể (xét điểm thi
 TN THPT, xét học bạ, xét tuyển thẳng, xét kết quả ĐGNL/ĐGTD...) hoặc một đợt tuyển sinh bổ
 sung, dựa trên đề án tuyển sinh đã được phê duyệt.
+
+## Khi nào KHÔNG dùng
+- Không dùng cho tuyển sinh thạc sĩ/tiến sĩ (dùng `thong-bao-tuyen-sinh-sdh`).
 
 ## Đầu vào (Input)
 | Trường | Mô tả | Bắt buộc |

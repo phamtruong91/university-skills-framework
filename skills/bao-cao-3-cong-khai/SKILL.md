@@ -1,6 +1,6 @@
 ---
 name: "bao-cao-3-cong-khai"
-description: "Tổng hợp báo cáo 3 công khai của trường đại học gồm: công khai cam kết chất lượng đào tạo; công khai điều kiện đảm bảo chất lượng; công khai thu chi tài chính (theo Thông tư 09/2024/TT-BGDĐT). Dùng khi trường phải công bố công khai hằng năm trên website. Không dùng để lập riêng bảng số liệu mảng đào tạo (dùng so-lieu-3-cong-khai-dt)."
+description: "Dùng khi trường tổng hợp báo cáo 3 công khai hằng năm để đăng website theo Thông tư 09/2024/TT-BGDĐT (cam kết chất lượng, điều kiện đảm bảo chất lượng, thu chi tài chính). Không dùng để lập riêng bảng số liệu mảng đào tạo (dùng so-lieu-3-cong-khai-dt)."
 ---
 
 # Soạn báo cáo 3 công khai
@@ -26,6 +26,9 @@ AI hỗ trợ chuẩn bị và đối chiếu; cán bộ phụ trách kiểm tra
 ## Khi nào dùng
 Khi tổng hợp báo cáo 3 công khai năm học để đăng tải trên website của trường theo
 quy định của Bộ GD&ĐT (thường đầu năm học).
+
+## Khi nào KHÔNG dùng
+- Không dùng để lập riêng bảng số liệu mảng đào tạo (dùng `so-lieu-3-cong-khai-dt`).
 
 ## Đầu vào (Input)
 | Trường | Mô tả | Bắt buộc |

@@ -1,6 +1,6 @@
 ---
 name: "ke-hoach-hoat-dong-bao-chi"
-description: "Lập kế hoạch hoạt động báo chí của cơ quan báo chí thuộc trường đại học (báo in, tạp chí nội bộ, bản tin): số kỳ xuất bản, chuyên mục, phân công biên tập, kế hoạch bài vở theo năm. Dùng cho tòa soạn/ban biên tập khi xây dựng kế hoạch năm."
+description: "Dùng cho thời điểm đầu năm, khi tòa soạn hoặc ban biên tập của báo in, tạp chí nội bộ, bản tin điện tử của trường lập kế hoạch năm: số kỳ, chuyên mục, phân công biên tập, dự toán."
 ---
 
 # Kế hoạch hoạt động báo chí

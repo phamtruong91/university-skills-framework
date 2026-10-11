@@ -1,6 +1,6 @@
 ---
 name: "chuan-bi-hop-hoi-dong-truong"
-description: "Chuẩn bị họp Hội đồng trường: tổng hợp tài liệu, soạn chương trình và thư mời, dự thảo nghị quyết, ghi biên bản và theo dõi thực hiện nghị quyết. Dùng cho Văn phòng Hội đồng trường trước mỗi kỳ họp định kỳ/đột xuất."
+description: "Dùng cho thời điểm trước mỗi kỳ họp định kỳ hoặc đột xuất của Hội đồng trường, khi Văn phòng Hội đồng trường cần tổng hợp tài liệu, soạn chương trình, thư mời, dự thảo nghị quyết, ghi biên bản và theo dõi thực hiện."
 ---
 
 # Chuẩn bị họp Hội đồng trường

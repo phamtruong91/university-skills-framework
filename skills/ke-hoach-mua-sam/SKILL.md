@@ -1,6 +1,6 @@
 ---
 name: "ke-hoach-mua-sam"
-description: "Lập kế hoạch mua sắm trang thiết bị năm của trường đại học (tổng hợp nhu cầu các đơn vị, phân loại hình thức lựa chọn nhà thầu, tiến độ theo quý). Dùng khi Phòng Quản trị – Thiết bị tổng hợp nhu cầu mua sắm hằng năm hoặc điều chỉnh, bổ sung kế hoạch."
+description: "Dùng khi Phòng Quản trị – Thiết bị tổng hợp nhu cầu mua sắm của các đơn vị thành kế hoạch năm, hoặc điều chỉnh, bổ sung giữa năm: hình thức lựa chọn nhà thầu, tiến độ theo quý."
 ---
 
 # Lập kế hoạch mua sắm trang thiết bị

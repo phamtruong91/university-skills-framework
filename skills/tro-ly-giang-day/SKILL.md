@@ -1,6 +1,6 @@
 ---
 name: "tro-ly-giang-day"
-description: "Trợ lý giảng dạy: dự thảo lesson plan, gợi ý học liệu, xây dựng rubric đánh giá, soạn dự thảo feedback cho sinh viên. Giảng viên duyệt toàn bộ trước khi dùng — dùng chung cho mọi khoa/bộ môn. Dùng khi chuẩn bị bài giảng, xây dựng rubric hoặc soạn nhận xét phản hồi cho sinh viên."
+description: "Dùng khi giảng viên chuẩn bị bài giảng, cần thang tiêu chí chấm hoặc soạn nhận xét phản hồi cho sinh viên. Dùng chung mọi khoa; giảng viên duyệt toàn bộ trước khi dùng."
 ---
 
 # Trợ lý giảng dạy

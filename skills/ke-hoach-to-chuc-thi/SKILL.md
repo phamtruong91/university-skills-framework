@@ -1,6 +1,6 @@
 ---
 name: "ke-hoach-to-chuc-thi"
-description: "Lập kế hoạch tổ chức kỳ thi kết thúc học phần / thi tốt nghiệp của trường đại học: lịch thi, phân công nhiệm vụ, chuẩn bị đề thi – phòng thi, chấm thi và công bố kết quả. Dùng khi chuẩn bị mỗi kỳ thi trong năm học."
+description: "Dùng khi chuẩn bị một kỳ thi (kết thúc học phần, tốt nghiệp, tuyển sinh sau đại học) và cần kế hoạch tổng thể: lịch thi, phân công, đề thi, phòng thi, chấm thi, công bố kết quả."
 ---
 
 # Kế hoạch tổ chức kỳ thi

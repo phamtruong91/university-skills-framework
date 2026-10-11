@@ -1,6 +1,6 @@
 ---
 name: "ho-so-de-nghi-khen-thuong"
-description: "Soạn bộ hồ sơ đề nghị khen thưởng các cấp (tờ trình, báo cáo thành tích cá nhân/tập thể, danh sách trích ngang). Dùng khi phòng Tổ chức – Cán bộ tổng hợp, hoàn thiện hồ sơ đề nghị khen thưởng gửi Hội đồng thi đua – khen thưởng các cấp."
+description: "Dùng khi phòng Tổ chức – Cán bộ đề nghị khen thưởng cá nhân hoặc tập thể lên Hội đồng thi đua – khen thưởng các cấp: tờ trình, báo cáo thành tích, danh sách trích ngang."
 ---
 
 # Hồ sơ đề nghị khen thưởng các cấp

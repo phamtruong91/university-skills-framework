@@ -1,6 +1,6 @@
 ---
 name: "quyet-dinh-phuc-khao"
-description: "Soạn quyết định công nhận kết quả phúc khảo bài thi của sinh viên trường đại học đúng thể thức Nghị định 30/2020/NĐ-CP. Dùng sau khi hội đồng phúc khảo chấm lại và có kết quả thay đổi/không thay đổi điểm. Dùng khi đã chấm phúc khảo xong và cần ban hành quyết định công nhận kết quả."
+description: "Dùng khi hội đồng đã chấm phúc khảo xong và cần ban hành quyết định công nhận kết quả (giữ nguyên hoặc điều chỉnh điểm), đúng thể thức Nghị định 30/2020/NĐ-CP."
 ---
 
 # Quyết định kết quả phúc khảo bài thi

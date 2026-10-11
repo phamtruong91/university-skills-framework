@@ -1,6 +1,6 @@
 ---
 name: "bao-cao-thi-dua"
-description: "Soạn dự thảo báo cáo tổng kết công tác thi đua, khen thưởng từ quyết định và số liệu đã được xác nhận của trường đại học. Dùng khi cần tổng hợp kết quả đã ban hành, đối chiếu nguồn và trình cán bộ phụ trách kiểm duyệt. Không dùng để chấm điểm, xếp hạng cá nhân hoặc quyết định người được khen thưởng."
+description: "Dùng khi cần tổng hợp dự thảo báo cáo công tác thi đua, khen thưởng từ quyết định và số liệu đã xác nhận trong kỳ. Không dùng để chấm điểm, xếp hạng cá nhân hay quyết định người được khen."
 ---
 
 # Báo cáo tổng kết công tác thi đua, khen thưởng
@@ -21,6 +21,9 @@ Khi báo cáo có số liệu cần so sánh hoặc nêu xu hướng, đọc m�
 ## Khi nào dùng
 
 Tổng hợp kết quả thi đua, khen thưởng đã có quyết định hoặc hồ sơ xác nhận trong kỳ. Chuẩn bị dự thảo báo cáo và bảng đối chiếu để cán bộ phụ trách kiểm tra trước trình lãnh đạo.
+
+## Khi nào KHÔNG dùng
+- Không dùng để chấm điểm, xếp hạng cá nhân hoặc quyết định người được khen thưởng.
 
 ## Đầu vào
 

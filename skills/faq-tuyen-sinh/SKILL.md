@@ -1,6 +1,6 @@
 ---
 name: "faq-tuyen-sinh"
-description: "Xây dựng bộ hỏi đáp tuyển sinh theo quy chế/đề án tuyển sinh: mỗi câu trả lời trích nguồn văn bản và ghi rõ năm áp dụng. Dùng cho website, chatbot, tư vấn viên."
+description: "Dùng khi cần bộ hỏi đáp tuyển sinh cho website, chatbot hoặc tư vấn viên về phương thức, chỉ tiêu, học phí, học bổng, hồ sơ; mỗi câu trả lời trích nguồn và năm áp dụng."
 ---
 
 # FAQ tuyển sinh
@@ -25,6 +25,9 @@ AI hỗ trợ chuẩn bị và đối chiếu; cán bộ phụ trách kiểm tra
 ## Khi nào dùng
 Khi cần bộ câu hỏi thường gặp về tuyển sinh: phương thức xét tuyển, chỉ tiêu, học phí,
 học bổng, hồ sơ, thời gian... cho website, chatbot tư vấn và đội ngũ tư vấn viên.
+
+## Khi nào KHÔNG dùng
+- Cần kịch bản trao đổi trực tiếp với từng thí sinh/phụ huynh: dùng `kich-ban-tu-van-tuyen-sinh`.
 
 ## Đầu vào (Input)
 

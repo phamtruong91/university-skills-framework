@@ -1,6 +1,6 @@
 ---
 name: "ma-tran-chuan-dau-ra"
-description: "Lập ma trận đối sánh chuẩn đầu ra học phần (CLO) với chuẩn đầu ra chương trình (PLO) theo mức I – R – M, kiểm tra mỗi PLO có ít nhất một học phần đạt mức M và rà soát học phần thừa/thiếu. Dùng khi thẩm định, rà soát hoặc kiểm định chương trình đào tạo."
+description: "Dùng khi thẩm định, rà soát hoặc kiểm định chương trình đào tạo và cần lập ma trận chuẩn đầu ra học phần (CLO) với chuẩn đầu ra chương trình (PLO) theo mức I – R – M, tìm PLO chưa có học phần đạt mức M."
 ---
 
 # Lập ma trận đối sánh chuẩn đầu ra học phần – chương trình (CLO–PLO)

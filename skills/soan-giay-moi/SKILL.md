@@ -1,6 +1,6 @@
 ---
 name: "soan-giay-moi"
-description: "Soạn giấy mời họp, hội nghị, lễ kỷ niệm, sự kiện của trường đại học (thành phần, thời gian, địa điểm, chương trình). Dùng khi đơn vị tổ chức sự kiện cần gửi giấy mời trang trọng."
+description: "Dùng khi đơn vị tổ chức họp, hội nghị, hội thảo, lễ khai giảng, bế giảng, kỷ niệm và cần giấy mời trang trọng gửi đại biểu, khách mời: thành phần, thời gian, địa điểm, chương trình."
 ---
 
 # Soạn giấy mời

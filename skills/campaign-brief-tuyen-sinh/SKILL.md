@@ -1,6 +1,6 @@
 ---
 name: "campaign-brief-tuyen-sinh"
-description: "Soạn brief chiến dịch tuyển sinh: mục tiêu, đối tượng, thông điệp, kênh, ngân sách, KPI, timeline. Dùng trước mỗi đợt chiến dịch để thống nhất toàn nhóm và trình duyệt. Dùng khi trước mỗi đợt chiến dịch tuyển sinh cần một bản brief thống nhất để triển khai và trình duyệt."
+description: "Dùng cho thời điểm trước mỗi đợt chiến dịch tuyển sinh (mở đợt, cao điểm, xét tuyển bổ sung), khi cần một bản yêu cầu thống nhất cho cả nhóm và trình lãnh đạo: mục tiêu, đối tượng, thông điệp, kênh, ngân sách, chỉ số."
 ---
 
 # Campaign brief tuyển sinh

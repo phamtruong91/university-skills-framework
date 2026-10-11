@@ -1,6 +1,6 @@
 ---
 name: "thong-bao-tuyen-dung"
-description: "Soạn thông báo tuyển dụng viên chức trường đại học đúng thể thức Nghị định 30/2020/NĐ-CP: vị trí, chỉ tiêu, tiêu chuẩn, hồ sơ, thời hạn, lệ phí. Dùng khi cần đăng thông báo tuyển dụng công khai sau khi kế hoạch tuyển dụng được phê duyệt."
+description: "Dùng khi kế hoạch tuyển dụng viên chức đã được Hiệu trưởng phê duyệt và cần soạn thông báo đăng công khai: vị trí, chỉ tiêu, tiêu chuẩn, hồ sơ, thời hạn, lệ phí."
 ---
 
 # Soạn thông báo tuyển dụng

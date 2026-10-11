@@ -1,6 +1,6 @@
 ---
 name: "quyet-dinh-cap-hoc-bong"
-description: "Soạn quyết định cấp học bổng hoặc miễn, giảm học phí cho sinh viên đúng thể thức quyết định hành chính. Dùng khi Phòng Công tác sinh viên đã có danh sách sinh viên đủ điều kiện và cần trình Hiệu trưởng ký quyết định cấp học bổng / miễn giảm học phí kèm danh sách."
+description: "Dùng khi hội đồng xét học bổng hoặc miễn giảm học phí đã chốt danh sách sinh viên đủ điều kiện và Hiệu trưởng cần ký quyết định cấp học bổng khuyến khích học tập, học bổng tài trợ, học bổng chính sách hoặc miễn giảm học phí."
 ---
 
 # Soạn quyết định cấp học bổng / miễn giảm học phí

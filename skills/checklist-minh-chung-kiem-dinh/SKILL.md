@@ -1,6 +1,6 @@
 ---
 name: "checklist-minh-chung-kiem-dinh"
-description: "Lập checklist minh chứng kiểm định chất lượng giáo dục theo từng tiêu chí/tiêu chuẩn, kèm hướng dẫn mã hóa và phân công thu thập. Dùng khi chuẩn bị hồ sơ minh chứng cho tự đánh giá và đón đoàn đánh giá ngoài."
+description: "Dùng khi chuẩn bị hồ sơ minh chứng cho tự đánh giá và đón đoàn đánh giá ngoài, cần rà soát, thu thập, mã hóa minh chứng theo từng tiêu chí và phân công đơn vị thu thập."
 ---
 
 # Checklist minh chứng kiểm định

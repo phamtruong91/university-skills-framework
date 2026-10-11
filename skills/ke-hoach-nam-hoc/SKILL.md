@@ -1,6 +1,6 @@
 ---
 name: "ke-hoach-nam-hoc"
-description: "Lập kế hoạch năm học cho phòng Đào tạo trường đại học (khung thời gian khai giảng, học kỳ, lịch thi, nghỉ lễ/Tết, xét tốt nghiệp, mốc tuyển sinh, phân công đơn vị thực hiện). Dùng khi cần xây dựng kế hoạch đào tạo năm học mới hoặc điều chỉnh kế hoạch năm học hiện tại. Không dùng cho kế hoạch năm học toàn trường do Văn phòng tổng hợp (dùng ke-hoach-nam-hoc-truong)."
+description: "Dùng khi Phòng Đào tạo xây dựng hoặc điều chỉnh kế hoạch đào tạo năm học hệ chính quy: khai giảng, học kỳ, lịch thi, nghỉ lễ Tết, xét tốt nghiệp, mốc tuyển sinh, phân công đơn vị. Không dùng cho kế hoạch năm học toàn trường do Văn phòng tổng hợp (dùng ke-hoach-nam-hoc-truong)."
 ---
 
 # Lập kế hoạch năm học
@@ -28,6 +28,9 @@ Khi cần xây dựng kế hoạch năm học mới (năm học đào tạo hệ
 kế hoạch năm học hiện hành: xác định khung thời gian khai giảng, các học kỳ, lịch thi
 kết thúc học phần, các kỳ nghỉ lễ/Tết, lịch bảo vệ khóa luận/đồ án tốt nghiệp, các đợt
 xét và công nhận tốt nghiệp, mốc tuyển sinh và phân công đơn vị thực hiện từng đầu việc.
+
+## Khi nào KHÔNG dùng
+- Không dùng cho kế hoạch năm học toàn trường do Văn phòng tổng hợp (dùng `ke-hoach-nam-hoc-truong`).
 
 ## Đầu vào (Input)
 | Trường | Mô tả | Bắt buộc |

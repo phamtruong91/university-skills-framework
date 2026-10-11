@@ -1,6 +1,6 @@
 ---
 name: "de-an-tuyen-sinh"
-description: "Soạn đề án tuyển sinh đại học hằng năm của trường: xác định chỉ tiêu theo năng lực đào tạo, liệt kê phương thức xét tuyển, tổ hợp môn, ngưỡng đảm bảo chất lượng đầu vào từng ngành, chính sách ưu tiên, lệ phí và tiến độ. Dùng khi Phòng Đào tạo xây dựng đề án tuyển sinh trình Hiệu trưởng/Bộ GD&ĐT đầu năm."
+description: "Dùng cho thời điểm đầu năm, khi Phòng Đào tạo xây dựng hoặc điều chỉnh đề án tuyển sinh đại học chính quy trình Hiệu trưởng, Bộ GD&ĐT: chỉ tiêu theo năng lực đào tạo, phương thức, tổ hợp môn, ngưỡng đầu vào, chính sách ưu tiên."
 ---
 
 # Soạn đề án tuyển sinh hằng năm

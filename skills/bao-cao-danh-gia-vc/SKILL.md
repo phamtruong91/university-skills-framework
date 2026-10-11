@@ -1,6 +1,6 @@
 ---
 name: "bao-cao-danh-gia-vc"
-description: "Tổng hợp kết quả đánh giá, xếp loại viên chức hằng năm của toàn trường từ báo cáo các đơn vị: số lượng theo 4 mức xếp loại, phân tích theo khối đơn vị, nhận xét và kiến nghị. Dùng khi Phòng Tổ chức – Cán bộ báo cáo Ban Giám hiệu / Hội đồng trường sau đợt đánh giá cuối năm."
+description: "Dùng cho thời điểm sau đợt đánh giá viên chức cuối năm (tháng 11–12), khi Phòng Tổ chức – Cán bộ tổng hợp toàn trường theo 4 mức xếp loại để báo cáo Hiệu trưởng, Hội đồng trường và cơ quan chủ quản."
 ---
 
 # Tổng hợp kết quả đánh giá viên chức toàn trường

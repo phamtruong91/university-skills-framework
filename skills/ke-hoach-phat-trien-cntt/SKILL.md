@@ -1,6 +1,6 @@
 ---
 name: "ke-hoach-phat-trien-cntt"
-description: "Lập kế hoạch phát triển công nghệ thông tin của trường đại học theo giai đoạn: hạ tầng mạng, hệ thống quản lý đào tạo (SIS), học trực tuyến (LMS), tuyển sinh trực tuyến, số hóa quy trình. Dùng khi xây dựng kế hoạch CNTT hằng năm hoặc trung hạn."
+description: "Dùng khi lập kế hoạch đầu tư, nâng cấp hạ tầng và phần mềm CNTT của trường theo năm hoặc giai đoạn 3–5 năm: mạng, hệ thống quản lý đào tạo, học trực tuyến, tuyển sinh trực tuyến, số hóa quy trình."
 ---
 
 # Kế hoạch phát triển CNTT

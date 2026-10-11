@@ -4,7 +4,7 @@
 
 Chuẩn hóa cách chuẩn bị văn bản, xử lý hồ sơ, tổng hợp số liệu, điều phối công việc, nghiên cứu và giảng dạy. Mỗi skill xác định dữ liệu đầu vào, quy trình, sản phẩm cần giao, định dạng file và trách nhiệm kiểm duyệt.
 
-[![Version](https://img.shields.io/badge/version-1.3.2-1f4e79)](CHANGELOG.md)
+[![Version](https://img.shields.io/badge/version-1.3.5-1f4e79)](CHANGELOG.md)
 [![Skills](https://img.shields.io/badge/skills-171-256D4A)](skills/README.md)
 [![License](https://img.shields.io/badge/license-CC_BY--SA_4.0-555555)](LICENSE)
 
@@ -12,14 +12,14 @@ Chuẩn hóa cách chuẩn bị văn bản, xử lý hồ sơ, tổng hợp số
 
 | Quy mô | Giá trị |
 | --- | ---: |
-| Phiên bản nội dung | **1.3.2** |
+| Phiên bản nội dung | **1.3.5** |
 | Ngày cập nhật bộ skill | **10/10/2026** |
 | Tổng số skill | **171** |
 | Skill lõi dùng chung | **18** |
 | Skill nghiệp vụ | **153** |
 | Định dạng đầu ra được khai báo | **15** |
 
-## Trạng thái hiện tại (phiên bản 1.3.2)
+## Trạng thái hiện tại (phiên bản 1.3.5)
 
 Đây là bộ skill **bản nháp đã rà soát**, chưa phải bản đã được pháp chế hay phòng chuyên môn phê duyệt. Cần hiểu đúng những gì đã và chưa được kiểm chứng:
 
@@ -215,4 +215,4 @@ Gửi pull request với mô tả sản phẩm được hỗ trợ, hành vi tha
 
 Bản quyền **CES Global, 2026**. Bộ tài liệu được phân phối theo giấy phép kép được quy định trong [LICENSE](LICENSE): giấy phép cộng đồng **CC BY-SA 4.0** và điều khoản thương mại riêng.
 
-Người duy trì: [phamtruong91](https://github.com/phamtruong91). Phiên bản **1.3.2** là phiên bản nội dung của bộ skill; xem [CHANGELOG](CHANGELOG.md) và lịch sử Git để theo dõi thay đổi. Số phiên bản này không tự đồng nghĩa đã phát hành GitHub Release.
+Người duy trì: [phamtruong91](https://github.com/phamtruong91). Phiên bản **1.3.5** là phiên bản nội dung của bộ skill; xem [CHANGELOG](CHANGELOG.md) và lịch sử Git để theo dõi thay đổi. Số phiên bản này không tự đồng nghĩa đã phát hành GitHub Release.

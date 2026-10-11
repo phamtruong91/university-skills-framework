@@ -1,6 +1,6 @@
 ---
 name: "ke-hoach-bao-tri-csvc"
-description: "Lập kế hoạch bảo trì, sửa chữa cơ sở vật chất năm của trường đại học (khảo sát hiện trạng, phân loại ưu tiên, dự toán, tiến độ). Dùng khi Phòng Quản trị – Thiết bị xây dựng kế hoạch duy tu, sửa chữa hằng năm."
+description: "Dùng khi Phòng Quản trị – Thiết bị lập kế hoạch bảo trì, sửa chữa cơ sở vật chất hằng năm hoặc kế hoạch sửa chữa đột xuất (hư hỏng ảnh hưởng an toàn, giảng dạy)."
 ---
 
 # Lập kế hoạch bảo trì cơ sở vật chất

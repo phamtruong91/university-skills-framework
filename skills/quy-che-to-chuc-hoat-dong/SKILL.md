@@ -1,6 +1,6 @@
 ---
 name: "quy-che-to-chuc-hoat-dong"
-description: "Soạn quy chế tổ chức và hoạt động của đơn vị trực thuộc trường đại học (phòng, khoa, trung tâm, viện): chức năng, nhiệm vụ, cơ cấu tổ chức, chế độ làm việc và mối quan hệ công tác, đúng thể thức Nghị định 30/2020/NĐ-CP. Dùng khi thành lập mới, chia tách, sáp nhập hoặc rà soát, sửa đổi quy chế của đơn vị. Không dùng cho quy chế của cả trường (dùng quy-che-to-chuc-hoat-dong-truong)."
+description: "Dùng khi thành lập, chia tách, sáp nhập hoặc rà soát một đơn vị trực thuộc (phòng, khoa, trung tâm, viện) và cần soạn quy chế tổ chức và hoạt động của đơn vị đó. Không dùng cho quy chế của cả trường (dùng quy-che-to-chuc-hoat-dong-truong)."
 ---
 
 # Soạn quy chế tổ chức và hoạt động của đơn vị trực thuộc
@@ -28,6 +28,9 @@ trường — phòng chức năng, khoa, trung tâm, viện: quy định rõ đ�
 nhiệm vụ), tổ chức ra sao (cơ cấu, lãnh đạo, các bộ phận), làm việc thế nào (chế độ làm việc,
 mối quan hệ công tác). Thường dùng khi thành lập mới, chia tách/sáp nhập đơn vị, hoặc rà soát
 định kỳ theo yêu cầu quản trị.
+
+## Khi nào KHÔNG dùng
+- Không dùng cho quy chế của cả trường (dùng `quy-che-to-chuc-hoat-dong-truong`).
 
 ## Đầu vào (Input)
 

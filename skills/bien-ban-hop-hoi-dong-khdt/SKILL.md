@@ -1,6 +1,6 @@
 ---
 name: "bien-ban-hop-hoi-dong-khdt"
-description: "Soạn biên bản họp Hội đồng Khoa học và Đào tạo: diễn biến, ý kiến từng thành viên và kết quả biểu quyết theo từng nội dung. Dùng sau mỗi phiên họp hội đồng. Dùng khi sau mỗi phiên họp Hội đồng Khoa học và Đào tạo cần lập biên bản."
+description: "Dùng cho thời điểm ngay sau phiên họp Hội đồng Khoa học và Đào tạo (định kỳ hoặc đột xuất), khi cần lập biên bản: diễn biến, ý kiến từng thành viên, kết quả biểu quyết từng nội dung."
 ---
 
 # Biên bản họp Hội đồng KH&ĐT

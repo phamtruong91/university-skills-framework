@@ -1,6 +1,6 @@
 ---
 name: "ke-hoach-tuan-shcd"
-description: "Lập kế hoạch Tuần sinh hoạt công dân cho sinh viên đầu khóa hoặc đầu năm học của trường đại học. Dùng khi đầu năm học cần tổ chức cho sinh viên học tập nội quy, quy chế đào tạo, an ninh pháp luật, kỹ năng học đại học và sinh hoạt Đoàn – Hội."
+description: "Dùng cho thời điểm đầu khóa hoặc đầu năm học, khi tổ chức Tuần sinh hoạt công dân cho sinh viên: nội quy, quy chế đào tạo, an ninh pháp luật, kỹ năng học đại học, sinh hoạt Đoàn – Hội."
 ---
 
 # Kế hoạch Tuần sinh hoạt công dân

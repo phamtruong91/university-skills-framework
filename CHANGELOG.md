@@ -1,5 +1,13 @@
 # Nhật ký thay đổi
 
+## 1.3.5 — 2026-10-11
+
+- Viết lại mô tả (`description`) của 171 skill theo nguyên tắc "chỉ nêu khi nào dùng": bỏ phần tóm tắt cách làm và các câu lặp, dùng tiếng Việt thông thường, giữ trong khoảng 320 ký tự. Mô tả cũ nhiều skill lặp hai lần ý "Dùng khi…".
+- Thêm mục "Khi nào KHÔNG dùng" cho 20 skill dễ nhầm với skill khác (cặp báo cáo 3 công khai, kế hoạch năm học, quy chế tổ chức, thông báo tuyển sinh, báo cáo tài chính, thanh tra/kiểm toán…). Các câu "Không dùng cho…" trước đây nằm trong mô tả được chuyển xuống thân SKILL.md.
+- Sửa lỗi chính tả "traol đổi" ở `bao-cao-ket-qua-doan`; cập nhật danh mục `skills/README.md` khớp mô tả mới.
+- Đồng bộ số phiên bản: CHANGELOG đã ghi 1.3.3 và 1.3.4 nhưng README, GOVERNANCE, manifest và `version.json` vẫn ghi 1.3.2; nay tất cả cùng 1.3.5.
+- Không đổi nội dung nghiệp vụ, căn cứ pháp lý hay quy cách đầu ra. Chưa chạy thử độ chính xác chọn skill của mô tả mới trên mô hình thật.
+
 ## 1.3.4 — 2026-10-10
 
 - Thêm mục "Xuất PowerPoint (.pptx) khi được yêu cầu" vào quy cách đầu ra của 171 skill (script `scripts/maintenance/add_pptx_rules.py`) và câu dẫn trong SKILL.md; cổng kiểm tra có thêm `co_quy_tac_pptx`. Trước đó mọi skill chỉ có một dòng "PPTX phải có slide thực".

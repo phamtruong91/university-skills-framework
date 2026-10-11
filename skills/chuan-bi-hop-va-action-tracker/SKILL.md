@@ -1,6 +1,6 @@
 ---
 name: "chuan-bi-hop-va-action-tracker"
-description: "Chuẩn bị họp (tóm tắt tài liệu thành agenda brief) và sau họp trích kết luận, tách action theo owner/deadline, lập bảng theo dõi đến khi đóng việc. Dùng khi chuẩn bị hoặc kết thúc một cuộc họp trong trường (giao ban, hội đồng, họp đơn vị)."
+description: "Dùng cho thời điểm trước họp, khi cần tóm tắt chồng tài liệu thành chương trình họp ngắn, hoặc sau họp khi cần trích kết luận, tách đầu việc có người phụ trách và hạn, theo dõi đến khi xong."
 ---
 
 # Chuẩn bị họp & theo dõi action

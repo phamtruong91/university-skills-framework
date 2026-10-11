@@ -1,6 +1,6 @@
 ---
 name: "ho-so-cong-nhan-sang-kien"
-description: "Soạn hồ sơ đề nghị công nhận sáng kiến kinh nghiệm: đơn đề nghị, bản mô tả sáng kiến (thực trạng, giải pháp, hiệu quả áp dụng), ý kiến nhận xét của đơn vị và checklist hồ sơ. Dùng khi cán bộ, giảng viên đăng ký công nhận sáng kiến cấp trường/cấp ngành."
+description: "Dùng khi cán bộ, giảng viên đăng ký công nhận sáng kiến kinh nghiệm cấp trường hoặc cấp ngành và cần đơn đề nghị, bản mô tả sáng kiến, ý kiến đơn vị, danh mục kiểm hồ sơ."
 ---
 
 # Hồ sơ đề nghị công nhận sáng kiến kinh nghiệm

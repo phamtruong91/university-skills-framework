@@ -1,6 +1,6 @@
 ---
 name: "bao-cao-cong-khai-tai-chinh"
-description: "Soạn báo cáo công khai tài chính của trường đại học để minh bạch ngân sách, gắn với 3 công khai theo Thông tư 09/2024/TT-BGDĐT. Dùng khi Phòng Tài chính – Kế toán cần công bố học phí, tổng thu – chi, chi cho người học và kết quả kiểm toán trên cổng thông tin điện tử. Không dùng cho báo cáo tài chính năm theo chế độ kế toán (dùng bao-cao-tai-chinh)."
+description: "Dùng khi Phòng Tài chính – Kế toán công bố học phí, tổng thu – chi, chi cho người học và kết quả kiểm toán trên cổng thông tin điện tử, gắn với 3 công khai theo Thông tư 09/2024/TT-BGDĐT. Không dùng cho báo cáo tài chính năm theo chế độ kế toán (dùng bao-cao-tai-chinh)."
 ---
 
 # Soạn báo cáo công khai tài chính
@@ -29,6 +29,9 @@ AI hỗ trợ chuẩn bị và đối chiếu; cán bộ phụ trách kiểm tra
 Khi thực hiện nghĩa vụ công khai tài chính của cơ sở giáo dục đại học: công bố mức thu học
 phí các ngành, tổng thu – chi ngân sách, các khoản chi cho người học (học bổng, hỗ trợ sinh
 viên), kết quả kiểm toán, theo hình thức công khai quy định.
+
+## Khi nào KHÔNG dùng
+- Không dùng cho báo cáo tài chính năm theo chế độ kế toán (dùng `bao-cao-tai-chinh`).
 
 ## Đầu vào (Input)
 | Trường | Mô tả | Bắt buộc |

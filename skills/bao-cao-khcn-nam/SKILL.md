@@ -1,6 +1,6 @@
 ---
 name: "bao-cao-khcn-nam"
-description: "Soạn báo cáo tổng kết công tác khoa học công nghệ và hợp tác quốc tế hằng năm của trường đại học: đề tài các cấp, công bố khoa học, sở hữu trí tuệ, hội thảo, hợp tác quốc tế, số liệu tổng hợp theo bảng biểu. Dùng khi tổng kết năm, báo cáo Bộ GD&ĐT hoặc phục vụ kiểm định."
+description: "Dùng khi tổng kết năm về khoa học công nghệ và hợp tác quốc tế: báo cáo Bộ GD&ĐT, báo cáo năm học, phục vụ kiểm định; gồm đề tài, công bố, sở hữu trí tuệ, hội thảo, số liệu bảng biểu."
 ---
 
 # Báo cáo KHCN & HTQT hằng năm

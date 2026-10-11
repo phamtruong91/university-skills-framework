@@ -1,6 +1,6 @@
 ---
 name: "cau-truc-bai-bao-khoa-hoc"
-description: "Hỗ trợ cấu trúc và hoàn thiện bài báo khoa học: tiêu đề, tóm tắt (abstract), từ khóa, đặt vấn đề, phương pháp, kết quả, thảo luận, kết luận, tài liệu tham khảo; kiểm tra nội bộ trước khi gửi tạp chí. Dùng khi giảng viên, nghiên cứu sinh chuẩn bị bản thảo gửi tạp chí trong nước hoặc quốc tế."
+description: "Dùng khi giảng viên, nghiên cứu sinh, học viên cao học cần dàn ý và hoàn thiện bản thảo bài báo khoa học trước khi gửi tạp chí trong nước hoặc quốc tế."
 ---
 
 # Cấu trúc bài báo khoa học

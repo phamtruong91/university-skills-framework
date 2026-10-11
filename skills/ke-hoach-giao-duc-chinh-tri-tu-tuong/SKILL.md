@@ -1,6 +1,6 @@
 ---
 name: "ke-hoach-giao-duc-chinh-tri-tu-tuong"
-description: "Soạn kế hoạch giáo dục chính trị, tư tưởng cho CBVC và sinh viên trong trường đại học: học tập nghị quyết, sinh hoạt chuyên đề, tuyên truyền. Dùng khi lập kế hoạch năm học hoặc đợt sinh hoạt chính trị."
+description: "Dùng khi đơn vị phụ trách công tác chính trị lập kế hoạch năm học hoặc đợt sinh hoạt chuyên đề về giáo dục chính trị, tư tưởng cho cán bộ viên chức và sinh viên: học tập nghị quyết, tuyên truyền."
 ---
 
 # Soạn kế hoạch giáo dục chính trị, tư tưởng

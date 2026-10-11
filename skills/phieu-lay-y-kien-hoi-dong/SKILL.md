@@ -1,6 +1,6 @@
 ---
 name: "phieu-lay-y-kien-hoi-dong"
-description: "Soạn phiếu lấy ý kiến thành viên Hội đồng Khoa học và Đào tạo bằng văn bản khi không tổ chức họp tập trung: nội dung xin ý kiến, tài liệu kèm theo, ô ghi ý kiến và tổng hợp kết quả. Dùng cho các nội dung cần ý kiến hội đồng nhưng chưa đến kỳ họp."
+description: "Dùng khi cần xin ý kiến thành viên Hội đồng Khoa học và Đào tạo bằng văn bản vì không họp tập trung: nội dung phát sinh giữa hai kỳ họp hoặc cần ý kiến nhanh."
 ---
 
 # Phiếu lấy ý kiến hội đồng

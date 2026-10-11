@@ -1,6 +1,6 @@
 ---
 name: "hop-dong-mua-sam"
-description: "Soạn hợp đồng mua sắm trang thiết bị giữa trường đại học và nhà thầu trúng thầu (điều khoản giao hàng, nghiệm thu, thanh toán, bảo hành, phạt vi phạm). Dùng khi Phòng Quản trị – Thiết bị ký kết hợp đồng sau khi có kết quả lựa chọn nhà thầu."
+description: "Dùng khi Phòng Quản trị – Thiết bị ký hợp đồng mua sắm thiết bị với nhà thầu trúng thầu hoặc được chỉ định, hoặc lập phụ lục điều chỉnh, bổ sung hợp đồng."
 ---
 
 # Soạn hợp đồng mua sắm thiết bị

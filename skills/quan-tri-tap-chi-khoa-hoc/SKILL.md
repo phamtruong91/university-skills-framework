@@ -1,6 +1,6 @@
 ---
 name: "quan-tri-tap-chi-khoa-hoc"
-description: "Quản trị quy trình tạp chí khoa học của trường đại học: tiếp nhận bản thảo, bình duyệt kín, hiệu đính, xuất bản số, quản lý ISSN. Dùng cho Ban biên tập tạp chí khoa học khi vận hành từng số tạp chí."
+description: "Dùng khi Ban biên tập tạp chí khoa học của trường vận hành một số tạp chí: nhận bản thảo, phân công phản biện, theo dõi bình duyệt, hiệu đính, xuất bản, quản lý ISSN."
 ---
 
 # Quản trị tạp chí khoa học

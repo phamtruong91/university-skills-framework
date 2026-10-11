@@ -1,6 +1,6 @@
 ---
 name: "ke-hoach-doan-ra-vao"
-description: "Lập kế hoạch đoàn ra (cán bộ đi công tác nước ngoài) và đoàn vào (đón tiếp đối tác quốc tế) cho trường đại học: mục đích, thành phần đoàn, chương trình chi tiết theo ngày, kinh phí dự kiến. Dùng khi chuẩn bị chuyến công tác quốc tế hoặc đón đoàn đối tác."
+description: "Dùng khi chuẩn bị đoàn ra (cán bộ đi công tác, học tập, dự hội nghị ở nước ngoài) hoặc đoàn vào (đón đối tác, chuyên gia quốc tế) và cần kế hoạch trình duyệt: thành phần, chương trình theo ngày, kinh phí."
 ---
 
 # Kế hoạch đoàn ra / đoàn vào

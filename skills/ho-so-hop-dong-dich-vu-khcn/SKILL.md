@@ -1,6 +1,6 @@
 ---
 name: "ho-so-hop-dong-dich-vu-khcn"
-description: "Soạn trọn bộ hồ sơ hợp đồng dịch vụ khoa học công nghệ của trường đại học (tư vấn, phân tích mẫu, chuyển giao, đào tạo theo nhu cầu): báo giá, hợp đồng, biên bản nghiệm thu dịch vụ, thanh lý hợp đồng. Dùng khi đơn vị KHCN ký dịch vụ với khách hàng ngoài trường."
+description: "Dùng khi đơn vị KHCN của trường ký dịch vụ với khách hàng ngoài trường (tư vấn, phân tích mẫu, chuyển giao, đào tạo theo đặt hàng) và cần báo giá, hợp đồng, biên bản nghiệm thu, thanh lý."
 ---
 
 # Hồ sơ hợp đồng dịch vụ KHCN

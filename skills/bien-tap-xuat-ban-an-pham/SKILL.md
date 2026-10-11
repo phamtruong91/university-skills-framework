@@ -1,6 +1,6 @@
 ---
 name: "bien-tap-xuat-ban-an-pham"
-description: "Quy trình biên tập và xuất bản ấn phẩm của trường đại học (giáo trình, sách chuyên khảo, kỷ yếu, tài liệu nội bộ): tiếp nhận bản thảo, biên tập nội dung – ngôn ngữ, chế bản, xin giấy phép, in và phát hành. Dùng cho Nhà xuất bản/ban biên tập của trường."
+description: "Dùng khi Nhà xuất bản hoặc ban biên tập của trường xuất bản giáo trình, sách chuyên khảo, kỷ yếu, tài liệu nội bộ và cần đi từ bản thảo đến sách in đúng quy định xuất bản."
 ---
 
 # Biên tập & xuất bản ấn phẩm

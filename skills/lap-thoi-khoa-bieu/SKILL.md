@@ -1,6 +1,6 @@
 ---
 name: "lap-thoi-khoa-bieu"
-description: "Lập thời khóa biểu học kỳ cho trường đại học (xếp lớp học phần, phân công giảng viên, xếp phòng học, kiểm tra trùng lịch). Dùng khi cần xây dựng hoặc điều chỉnh thời khóa biểu một học kỳ trước khi công bố cho sinh viên và giảng viên."
+description: "Dùng khi lập mới hoặc điều chỉnh thời khóa biểu một học kỳ trước khi công bố: mở lớp theo đăng ký học phần, phân công giảng viên, xếp phòng học, kiểm tra trùng lịch."
 ---
 
 # Lập thời khóa biểu học kỳ

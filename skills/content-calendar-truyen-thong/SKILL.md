@@ -1,6 +1,6 @@
 ---
 name: "content-calendar-truyen-thong"
-description: "Lập content calendar truyền thông theo tuần/tháng: chủ đề, định dạng, kênh đăng, người phụ trách, trạng thái. Dùng để vận hành sản xuất nội dung đều đặn, đúng chiến dịch."
+description: "Dùng khi cần lên lịch đăng bài theo tuần hoặc tháng cho website, fanpage, TikTok, YouTube sao cho bám chiến dịch trong kế hoạch truyền thông năm: chủ đề, định dạng, kênh, người phụ trách."
 ---
 
 # Content calendar truyền thông

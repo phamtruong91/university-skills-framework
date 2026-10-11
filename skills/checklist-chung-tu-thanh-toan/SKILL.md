@@ -1,6 +1,6 @@
 ---
 name: "checklist-chung-tu-thanh-toan"
-description: "Lập checklist chứng từ thanh toán cho từng loại chi của trường đại học (lương, học bổng, đề tài NCKH, mua sắm, công tác phí, tiếp khách – hội nghị). Dùng khi Phòng Tài chính – Kế toán kiểm soát tính đầy đủ, hợp lệ của bộ chứng từ trước khi chi tiền."
+description: "Dùng khi Phòng Tài chính – Kế toán kiểm soát bộ chứng từ của một khoản chi (lương, học bổng, đề tài, mua sắm, công tác phí, tiếp khách – hội nghị) trước khi trình ký chi tiền."
 ---
 
 # Lập checklist chứng từ thanh toán

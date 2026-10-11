@@ -1,6 +1,6 @@
 ---
 name: "ke-hoach-xuc-tien-dau-tu"
-description: "Lập kế hoạch xúc tiến đầu tư của Ban Xúc tiến đầu tư và Phát triển hạ tầng: định hướng thu hút đầu tư, danh mục dự án kêu gọi, đối tác mục tiêu, hoạt động xúc tiến. Dùng khi xây dựng kế hoạch năm hoặc chiến dịch kêu gọi đầu tư."
+description: "Dùng khi Ban Xúc tiến đầu tư và Phát triển hạ tầng lập kế hoạch năm hoặc chiến dịch thu hút đầu tư: kêu gọi đầu tư hạ tầng, hợp tác công – tư, tài trợ, liên doanh liên kết; danh mục dự án, đối tác mục tiêu."
 ---
 
 # Kế hoạch xúc tiến đầu tư

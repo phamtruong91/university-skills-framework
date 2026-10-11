@@ -1,6 +1,6 @@
 ---
 name: "tong-hop-diem-ren-luyen"
-description: "Tổng hợp điểm rèn luyện của sinh viên toàn trường theo học kỳ từ kết quả các khoa. Dùng khi Phòng Công tác sinh viên cần lập bảng tổng hợp theo khoa (số sinh viên từng mức xếp loại, tỷ lệ %) kèm nhận xét, đánh giá và kiến nghị để báo cáo Ban Giám hiệu."
+description: "Dùng cho thời điểm sau, khi các khoa đánh giá rèn luyện xong học kỳ và Phòng Công tác sinh viên tổng hợp toàn trường theo khoa (số sinh viên từng mức xếp loại, tỷ lệ), kèm nhận xét, kiến nghị báo cáo Ban Giám hiệu."
 ---
 
 # Tổng hợp điểm rèn luyện toàn trường theo học kỳ

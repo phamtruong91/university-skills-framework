@@ -1,6 +1,6 @@
 ---
 name: "bai-viet-truyen-thong"
-description: "Viết bài truyền thông cho website/fanpage theo brand voice trẻ trung, học thuật, kiểm chứng nội bộ số liệu, tên và trích dẫn. Dùng cho tin tức, gương sinh viên, thông tin tuyển sinh."
+description: "Dùng khi cần bài viết cho website, fanpage, bản tin: tin sự kiện, gương sinh viên, giảng viên tiêu biểu, giới thiệu ngành, thông tin tuyển sinh, thành tựu nghiên cứu."
 ---
 
 # Bài viết truyền thông

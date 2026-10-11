@@ -1,6 +1,6 @@
 ---
 name: "phan-cong-giang-day"
-description: "Lập bảng phân công giảng dạy học kỳ cho giảng viên của khoa/bộ môn trường đại học: căn cứ danh mục học phần, chuyên môn và định mức giờ giảng. Dùng đầu mỗi học kỳ. Dùng khi bắt đầu học kỳ và khoa/bộ môn cần phân công giảng viên theo học phần, lớp học phần."
+description: "Dùng cho thời điểm đầu mỗi học kỳ, khi khoa hoặc bộ môn phân công giảng viên theo học phần, lớp học phần, căn cứ chuyên môn và định mức giờ giảng."
 ---
 
 # Phân công giảng dạy học kỳ

@@ -1,6 +1,6 @@
 ---
 name: "noi-quy-ky-tuc-xa"
-description: "Soạn nội quy ký túc xá hoàn chỉnh theo chương/điều (quyền và nghĩa vụ sinh viên nội trú, giờ giấc, an ninh trật tự, vệ sinh, xử lý vi phạm) kèm quy trình xét duyệt chỗ ở và mẫu đơn xin ở KTX. Dùng khi ban quản lý ký túc xá cần ban hành hoặc sửa đổi nội quy, quy trình tiếp nhận sinh viên nội trú."
+description: "Dùng khi ban quản lý ký túc xá ban hành hoặc sửa đổi nội quy, quy trình xét duyệt chỗ ở, mẫu đơn xin ở: quyền và nghĩa vụ sinh viên nội trú, giờ giấc, an ninh trật tự, vệ sinh, xử lý vi phạm."
 ---
 
 # Soạn nội quy ký túc xá và quy trình xét duyệt chỗ ở

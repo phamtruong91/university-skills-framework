@@ -1,6 +1,6 @@
 ---
 name: "helpdesk-cntt-triage"
-description: "Helpdesk CNTT: phân loại ticket hỗ trợ, đánh giá ưu tiên theo SLA, dự thảo hướng xử lý an toàn từng bước, gợi ý FAQ, báo cáo xu hướng sự cố. Dùng chung cho mọi đơn vị có bộ phận CNTT. Dùng khi tiếp nhận yêu cầu hỗ trợ CNTT cần phân loại nhanh và ưu tiên đúng SLA."
+description: "Dùng khi bộ phận CNTT tiếp nhận yêu cầu hỗ trợ (mạng, phần mềm, tài khoản, thiết bị) cần phân loại phiếu, xếp ưu tiên theo cam kết thời gian xử lý, định hướng xử lý nhất quán. Dùng chung mọi đơn vị."
 ---
 
 # Helpdesk CNTT (triage)

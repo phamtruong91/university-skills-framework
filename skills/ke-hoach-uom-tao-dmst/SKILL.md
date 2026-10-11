@@ -1,6 +1,6 @@
 ---
 name: "ke-hoach-uom-tao-dmst"
-description: "Lập kế hoạch chương trình ươm tạo đổi mới sáng tạo của Viện: tiêu chí tuyển chọn, lộ trình ươm tạo theo giai đoạn, nguồn lực hỗ trợ và KPI đầu ra. Dùng khi viện tổ chức các đợt ươm tạo startup/dự án khởi nghiệp."
+description: "Dùng khi Viện tổ chức đợt ươm tạo startup sinh viên, giảng viên hoặc dự án khởi nghiệp và cần kế hoạch: tiêu chí tuyển chọn, lộ trình theo giai đoạn, nguồn lực hỗ trợ, chỉ tiêu đầu ra."
 ---
 
 # Kế hoạch ươm tạo ĐMST

@@ -1,6 +1,6 @@
 ---
 name: "ke-hoach-boi-duong"
-description: "Lập kế hoạch đào tạo, bồi dưỡng cán bộ, giảng viên năm của trường đại học (đối tượng, nội dung, hình thức, kinh phí, tiến độ). Dùng khi phòng Tổ chức – Cán bộ tổng hợp nhu cầu bồi dưỡng để xây dựng kế hoạch năm trình Hiệu trưởng phê duyệt."
+description: "Dùng khi phòng Tổ chức – Cán bộ tổng hợp nhu cầu các đơn vị để lập kế hoạch năm đào tạo, bồi dưỡng cán bộ, giảng viên trình Hiệu trưởng: đối tượng, nội dung, hình thức, kinh phí."
 ---
 
 # Kế hoạch đào tạo, bồi dưỡng cán bộ năm

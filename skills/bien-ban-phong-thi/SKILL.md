@@ -1,6 +1,6 @@
 ---
 name: "bien-ban-phong-thi"
-description: "Lập biên bản phòng thi và biên bản bàn giao bài thi trong các kỳ thi của trường đại học. Dùng khi cán bộ coi thi cần ghi nhận diễn biến, số lượng thí sinh, vi phạm (nếu có) và bàn giao bài thi sau mỗi ca thi."
+description: "Dùng khi kết thúc mỗi ca thi và cán bộ coi thi cần lập biên bản phòng thi (số thí sinh, diễn biến, vi phạm nếu có) và biên bản bàn giao bài thi cho thư ký hội đồng."
 ---
 
 # Biên bản phòng thi & bàn giao bài thi

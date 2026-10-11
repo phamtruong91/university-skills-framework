@@ -1,6 +1,6 @@
 ---
 name: "quyet-dinh-tot-nghiep"
-description: "Soạn quyết định công nhận tốt nghiệp cho sinh viên theo từng đợt (kèm danh sách xếp loại tốt nghiệp, chuyển in bằng). Dùng khi hội đồng xét tốt nghiệp đã họp và cần ban hành quyết định công nhận tốt nghiệp."
+description: "Dùng khi hội đồng xét tốt nghiệp đã họp và cần ban hành quyết định công nhận tốt nghiệp theo đợt, kèm danh sách xếp loại làm căn cứ in bằng."
 ---
 
 # Soạn quyết định công nhận tốt nghiệp

@@ -1,6 +1,6 @@
 ---
 name: "khao-sat-viec-lam-sv-tot-nghiep"
-description: "Thiết kế phiếu khảo sát và báo cáo tình trạng việc làm của sinh viên sau tốt nghiệp (tình trạng có việc làm, đúng ngành đào tạo, thu nhập, thời gian tìm việc). Dùng khi phòng Công tác sinh viên cần thực hiện khảo sát việc làm hằng năm theo khóa tốt nghiệp."
+description: "Dùng khi Phòng Công tác sinh viên khảo sát việc làm sinh viên đã tốt nghiệp theo khóa (thường sau 6–12 tháng): thiết kế phiếu, tổng hợp tình trạng có việc làm, đúng ngành, thu nhập, thời gian tìm việc."
 ---
 
 # Khảo sát tình trạng việc làm sinh viên sau tốt nghiệp

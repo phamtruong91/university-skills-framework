@@ -1,6 +1,6 @@
 ---
 name: "bao-cao-cong-tac-thu-vien"
-description: "Soạn báo cáo tổng kết công tác thư viện trường đại học: vốn tài liệu, phục vụ bạn đọc, số hóa, cơ sở dữ liệu điện tử. Dùng cuối năm học hoặc khi báo cáo kiểm định (minh chứng CSVC, học liệu). Dùng khi kết thúc năm học và thư viện cần tổng kết hoạt động phục vụ bạn đọc, phát triển vốn tài liệu."
+description: "Dùng khi kết thúc năm học và thư viện cần tổng kết vốn tài liệu, phục vụ bạn đọc, số hóa, cơ sở dữ liệu điện tử; cũng dùng làm minh chứng học liệu cho kiểm định."
 ---
 
 # Báo cáo công tác thư viện

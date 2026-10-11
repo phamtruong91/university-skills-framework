@@ -1,6 +1,6 @@
 ---
 name: "bao-cao-kiem-toan-noi-bo"
-description: "Soạn báo cáo kết quả kiểm toán nội bộ của trường đại học: tổng hợp phát hiện, đánh giá rủi ro, kiến nghị khắc phục và theo dõi thực hiện. Dùng sau mỗi cuộc kiểm toán nội bộ để báo cáo lãnh đạo và gửi đơn vị được kiểm toán. Dùng khi kết thúc một cuộc kiểm toán nội bộ và đoàn cần lập báo cáo kết quả."
+description: "Dùng khi kết thúc một cuộc kiểm toán nội bộ và đoàn cần lập báo cáo kết quả gửi lãnh đạo, đơn vị được kiểm toán: phát hiện, rủi ro, kiến nghị khắc phục, theo dõi thực hiện."
 ---
 
 # Soạn báo cáo kiểm toán nội bộ

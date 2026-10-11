@@ -1,6 +1,6 @@
 ---
 name: "quy-trinh-ngan-hang-de-thi"
-description: "Xây dựng quy trình thu thập, phản biện, phê duyệt, bảo mật và khai thác ngân hàng đề thi / câu hỏi thi của trường đại học. Dùng khi cần ban hành hoặc rà soát quy trình quản lý đề thi kết thúc học phần, thi tốt nghiệp."
+description: "Dùng khi cần ban hành hoặc rà soát quy trình quản lý ngân hàng đề thi: biên soạn, phản biện, phê duyệt, lưu trữ bảo mật, rút đề theo ma trận."
 ---
 
 # Quy trình xây dựng ngân hàng đề thi

@@ -1,6 +1,6 @@
 ---
 name: "ke-hoach-hoi-thao-khoa-hoc"
-description: "Lập kế hoạch tổ chức hội thảo khoa học cấp trường, quốc gia hoặc quốc tế: chủ đề, thời gian, địa điểm, thành phần tham dự, chương trình chi tiết, dự toán kinh phí và thư mời tham dự. Dùng khi đơn vị được giao hoặc đề xuất tổ chức hội thảo."
+description: "Dùng khi khoa, phòng được giao hoặc đề xuất tổ chức hội thảo khoa học và cần kế hoạch trình lãnh đạo: chủ đề, thời gian, thành phần, chương trình, dự toán, thư mời."
 ---
 
 # Kế hoạch tổ chức hội thảo khoa học

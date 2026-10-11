@@ -1,6 +1,6 @@
 ---
 name: "de-cuong-chi-tiet-hoc-phan"
-description: "Soạn đề cương chi tiết học phần trình độ đại học (thông tin chung, mục tiêu và CLO, nội dung theo tuần, phương pháp giảng dạy, phương pháp và trọng số đánh giá, tài liệu học tập). Dùng khi xây dựng mới hoặc cập nhật đề cương từng học phần trong chương trình đào tạo."
+description: "Dùng khi giảng viên hoặc bộ môn soạn mới hay cập nhật đề cương chi tiết một học phần đại học: mục tiêu, chuẩn đầu ra, nội dung theo tuần, phương pháp giảng dạy, trọng số đánh giá, tài liệu."
 ---
 
 # Soạn đề cương chi tiết học phần

@@ -1,6 +1,6 @@
 ---
 name: "ke-hoach-nam-hoc-truong"
-description: "Xây dựng kế hoạch năm học toàn trường đại học (nhiệm vụ trọng tâm, chỉ tiêu các mảng, phân công đơn vị, tiến độ). Dùng khi Văn phòng tổng hợp kế hoạch năm học mới từ kế hoạch của các đơn vị. Không dùng cho kế hoạch đào tạo của phòng Đào tạo (dùng ke-hoach-nam-hoc)."
+description: "Dùng cho thời điểm trước năm học mới (hoặc, khi điều chỉnh giữa năm) khi Văn phòng tổng hợp kế hoạch của các đơn vị thành kế hoạch năm học toàn trường: nhiệm vụ trọng tâm, chỉ tiêu, phân công, tiến độ. Không dùng cho kế hoạch đào tạo của phòng Đào tạo (dùng ke-hoach-nam-hoc)."
 ---
 
 # Lập kế hoạch năm học toàn trường
@@ -25,6 +25,9 @@ AI hỗ trợ chuẩn bị và đối chiếu; cán bộ phụ trách kiểm tra
 ## Khi nào dùng
 Khi xây dựng kế hoạch năm học mới (trước khi năm học bắt đầu); khi điều chỉnh kế hoạch
 giữa năm học.
+
+## Khi nào KHÔNG dùng
+- Không dùng cho kế hoạch đào tạo của phòng Đào tạo (dùng `ke-hoach-nam-hoc`).
 
 ## Đầu vào (Input)
 

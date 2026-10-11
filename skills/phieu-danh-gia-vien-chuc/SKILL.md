@@ -1,6 +1,6 @@
 ---
 name: "phieu-danh-gia-vien-chuc"
-description: "Lập phiếu tự đánh giá, xếp loại viên chức hằng năm theo Nghị định 233/2026/NĐ-CP, kèm hướng dẫn tiêu chí chấm điểm (chính trị tư tưởng, đạo đức lối sống, tác phong, ý thức kỷ luật, kết quả thực hiện chức trách nhiệm vụ). Dùng khi tổ chức đánh giá viên chức cuối năm tại các đơn vị."
+description: "Dùng khi tổ chức đánh giá, xếp loại viên chức cuối năm (thường tháng 11–12) theo Nghị định 233/2026/NĐ-CP: phiếu tự đánh giá và hướng dẫn tiêu chí chấm."
 ---
 
 # Phiếu đánh giá, xếp loại viên chức

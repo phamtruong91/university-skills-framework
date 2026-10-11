@@ -1,6 +1,6 @@
 ---
 name: "de-an-mo-nganh"
-description: "Soạn đề án mở ngành đào tạo trình độ đại học theo căn cứ hiện hành nêu tại phap-ly.md (sự cần thiết, điều kiện đội ngũ – CSVC, chương trình đào tạo dự kiến, kế hoạch tuyển sinh và đảm bảo chất lượng). Dùng khi trường chuẩn bị hồ sơ đề nghị Bộ GD&ĐT cho phép mở ngành mới."
+description: "Dùng khi trường chuẩn bị hồ sơ đề nghị Bộ GD&ĐT cho phép mở ngành đào tạo mới trình độ đại học: sự cần thiết, điều kiện đội ngũ và cơ sở vật chất, chương trình dự kiến, kế hoạch tuyển sinh."
 ---
 
 # Soạn đề án mở ngành đào tạo

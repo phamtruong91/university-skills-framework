@@ -1,6 +1,6 @@
 ---
 name: "lap-lich-cong-tac-tuan"
-description: "Tổng hợp lịch công tác tuần của Ban Giám hiệu từ đầu việc các đơn vị gửi về, sắp xếp theo thời gian, chuẩn hóa và xuất bảng lịch tuần. Dùng khi Phòng HCTH lập lịch công tác tuần của Ban Giám hiệu."
+description: "Dùng cho thời điểm cuối mỗi tuần, khi Văn phòng tổng hợp đầu việc các đơn vị gửi về thành lịch công tác tuần sau của Ban Giám hiệu để ban hành toàn trường."
 ---
 
 # Lập lịch công tác tuần

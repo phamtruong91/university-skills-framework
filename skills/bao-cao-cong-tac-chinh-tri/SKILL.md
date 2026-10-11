@@ -1,6 +1,6 @@
 ---
 name: "bao-cao-cong-tac-chinh-tri"
-description: "Soạn báo cáo công tác chính trị, tư tưởng định kỳ (quý/năm học/đợt) trong trường đại học: tình hình tư tưởng CBVC/SV, kết quả tuyên truyền, giáo dục. Dùng khi báo cáo Đảng ủy và cấp trên."
+description: "Dùng khi đơn vị phụ trách công tác chính trị báo cáo định kỳ (quý, năm học) hoặc sau đợt sinh hoạt chính trị gửi Đảng ủy trường và cấp trên: tình hình tư tưởng, kết quả tuyên truyền, giáo dục."
 ---
 
 # Soạn báo cáo công tác chính trị

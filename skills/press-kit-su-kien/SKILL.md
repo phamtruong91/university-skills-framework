@@ -1,6 +1,6 @@
 ---
 name: "press-kit-su-kien"
-description: "Soạn bộ press kit sự kiện: thông cáo báo chí, fact sheet, tiểu sử diễn giả, ảnh, thông tin liên hệ báo chí. Dùng trước và trong các sự kiện lớn của trường. Dùng khi tổ chức sự kiện cần mời báo chí đưa tin."
+description: "Dùng khi tổ chức sự kiện lớn cần mời báo chí (khai giảng, kỷ niệm, hội thảo, ký kết, ngày hội tuyển sinh) và cần bộ tài liệu báo chí: thông cáo, thông tin tóm tắt, tiểu sử diễn giả, đầu mối liên hệ."
 ---
 
 # Press kit sự kiện
