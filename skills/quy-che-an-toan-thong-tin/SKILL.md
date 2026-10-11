@@ -102,7 +102,8 @@ Sản phẩm nghiệp vụ hoàn chỉnh theo [quy cách và cấu trúc](refere
 > Tiêu chí đạt: tất cả các ô đều được đánh dấu.
 
 ## Căn cứ & lưu ý
-- Luật An toàn thông tin mạng 2015; Nghị định 85/2016/NĐ-CP về bảo đảm ATTT theo cấp độ.
+- **Cập nhật pháp lý (đối chiếu ngày 11/10/2026):** Luật An ninh mạng số 116/2025/QH15 (thông qua 10/12/2025) có hiệu lực từ 01/07/2026 (nguồn chính thức: https://congbao.chinhphu.vn/van-ban/luat-so-116-2025-qh15-468678.htm). Một nguồn thứ cấp cho rằng luật này thay Luật An ninh mạng 2018 và Luật An toàn thông tin mạng 2015, nhưng trang Công báo không nêu điều khoản bãi bỏ hay chuyển tiếp. Phải [CẦN XÁC MINH] theo toàn văn: Luật An toàn thông tin mạng 2015 còn hiệu lực đến đâu, Nghị định 85/2016/NĐ-CP (bảo đảm an toàn hệ thống thông tin theo cấp độ) còn áp dụng hay đã có văn bản thay, và cách xác định cấp độ hệ thống theo luật mới. Chưa ghi kết luận về cấp độ hay nghĩa vụ cụ thể vào quy chế khi chưa đối chiếu.
+- Luật An toàn thông tin mạng 2015; Nghị định 85/2016/NĐ-CP về bảo đảm ATTT theo cấp độ (xem cập nhật pháp lý ngay dưới đây: hai văn bản này cần đối chiếu hiệu lực).
 - Luật Bảo vệ dữ liệu cá nhân 2025 (hiệu lực từ 2026) — dữ liệu sinh viên/cán bộ là
   dữ liệu cá nhân, phải bảo vệ theo quy định.
 - Quy chế phải được phổ biến, tập huấn đến toàn thể cán bộ, giảng viên, sinh viên;

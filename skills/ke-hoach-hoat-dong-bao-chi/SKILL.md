@@ -130,7 +130,7 @@ Sản phẩm nghiệp vụ hoàn chỉnh theo [quy cách và cấu trúc](refere
 - [ ] Nội dung khớp với Input: tên ấn phẩm, năm, số kỳ/năm, chuyên mục, sự kiện trọng tâm, nhân sự.
 - [ ] Không bịa đặt số liệu, minh chứng, trích dẫn.
 - [ ] Đúng thể thức văn bản kế hoạch; kế hoạch không vượt giấy phép hoạt động báo chí (loại hình, kỳ hạn, phạm vi phát hành).
-- [ ] Căn cứ pháp lý đầy đủ, còn hiệu lực (Luật Báo chí 2016, giấy phép hoạt động của ấn phẩm).
+- [ ] Căn cứ pháp lý đầy đủ, còn hiệu lực (Luật Báo chí số 126/2025/QH15 hiệu lực 01/07/2026 và văn bản hướng dẫn; giấy phép hoạt động của ấn phẩm; xem mục Căn cứ & lưu ý).
 - [ ] Đã qua Human gate: Tổng biên tập duyệt nội dung; lãnh đạo trường (cơ quan chủ quản) phê duyệt kế hoạch năm và số đặc biệt.
 - [ ] Mỗi sự kiện trọng tâm có tuyến bài "trước – trong – sau"; mỗi bài có người chịu trách nhiệm nội dung ghi rõ họ tên.
 - [ ] Nhuận bút tính đúng khung quy định; số đặc biệt dự toán riêng.
@@ -147,7 +147,8 @@ Tiêu chí đạt = tất cả các ô được đánh dấu.
 - Không đăng nội dung chưa kiểm chứng nguồn; không vi phạm bản quyền hình ảnh/bài viết.
 
 ## Căn cứ & lưu ý
-- Luật Báo chí 2016; giấy phép hoạt động báo chí của ấn phẩm.
+- **Cập nhật pháp lý (đối chiếu ngày 11/10/2026):** Luật Báo chí số 126/2025/QH15 (Quốc hội thông qua 10/12/2025) có hiệu lực từ 01/07/2026 (nguồn chính thức: https://vanban.chinhphu.vn/?pageid=27160&docid=216507&classid=1&orggroupid=1). Trang nguồn không nêu điều khoản bãi bỏ Luật Báo chí 2016, chuyển tiếp giấy phép, nộp lưu chiểu; Quyết định 329/QĐ-TTg ngày 24/02/2026 cho thấy các nghị định hướng dẫn đang được rà soát hoặc ban hành. Vì vậy phải [CẦN XÁC MINH] theo toàn văn Luật 126/2025/QH15 và nghị định hướng dẫn hiện hành: hiệu lực của Luật Báo chí 2016, giấy phép ấn phẩm, thủ tục lưu chiểu và các điều khoản dẫn trong skill này.
+- Luật Báo chí 2016 (áp dụng cho đến khi xác định rõ phạm vi thay thế bởi Luật 126/2025/QH15); giấy phép hoạt động báo chí của ấn phẩm.
 - Không dùng tên thật của trường/ấn phẩm/cá nhân khi mô phỏng.
 
 ## Quản trị phiên bản

@@ -1,5 +1,14 @@
 # Nhật ký thay đổi
 
+## 1.3.6 — 2026-10-11
+
+- Cập nhật căn cứ pháp lý cho 10 skill sau khi đối chiếu nguồn Chính phủ / Công báo ngày 11/10/2026:
+  - Sau đại học (`ke-hoach-dao-tao-sdh`, `quyet-dinh-hoi-dong-bao-ve`, `bien-ban-bao-ve-luan-van`, `thong-bao-tuyen-sinh-sdh`, `bao-cao-dao-tao-sdh`): Thông tư 53/2026/TT-BGDĐT (ban hành, hiệu lực 30/06/2026) thay Thông tư 23/2021 và 18/2021; phải xác định khóa theo ngày thông báo tuyển sinh (từ 01/01/2027) trước khi chọn căn cứ. Phần chuyển tiếp lấy từ nguồn thứ cấp, đã đánh dấu [CẦN XÁC MINH].
+  - Khiếu nại, tố cáo (`quyet-dinh-giai-quyet-kn`): dùng văn bản hợp nhất Luật Khiếu nại 28/VBHN-VPQH (2026) có Luật 136/2025/QH15 hiệu lực 01/07/2026; lưu ý các điều về thời hạn và thẩm quyền đã sửa.
+  - Báo chí (`ke-hoach-hoat-dong-bao-chi`, `quan-tri-tap-chi-khoa-hoc`, `ke-hoach-quan-tri-thuong-hieu`): Luật Báo chí 126/2025/QH15 hiệu lực 01/07/2026; điều khoản bãi bỏ Luật 2016 và chuyển tiếp chưa xác minh.
+  - An toàn thông tin (`quy-che-an-toan-thong-tin`): Luật An ninh mạng 116/2025/QH15 hiệu lực 01/07/2026; hiệu lực của Luật ATTT mạng 2015 và Nghị định 85/2016 chưa xác minh.
+- Không viết lại các con số trong thân skill (số thành viên hội đồng, bậc ngoại ngữ, thời hạn…) vì chưa đọc được toàn văn Thông tư 53/2026; các số này được đánh dấu cần xác minh. Chưa đổi `legal_updates` trong `version.json` (không chuyển quy trình sang tư liệu lịch sử).
+
 ## 1.3.5 — 2026-10-11
 
 - Viết lại mô tả (`description`) của 171 skill theo nguyên tắc "chỉ nêu khi nào dùng": bỏ phần tóm tắt cách làm và các câu lặp, dùng tiếng Việt thông thường, giữ trong khoảng 320 ký tự. Mô tả cũ nhiều skill lặp hai lần ý "Dùng khi…".

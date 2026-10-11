@@ -2,7 +2,7 @@
 
 Kho nguồn: https://github.com/phamtruong91/university-skills-framework. Người duy trì ghi theo GitHub: `phamtruong91`, Phạm Văn Trường. Giấy phép và bản quyền theo LICENSE (CES Global); tài khoản duy trì không đồng nghĩa chủ sở hữu toàn bộ nội dung.
 
-Phiên bản gói hiện tại: **1.3.5**, ngày cập nhật **2026-10-11**. Baseline trước cập nhật: `d2a835f00b0dbbafa13a66d56551a4f3102311ac`. Xác định commit thực tế bằng `git log -1` và `git log -1 -- skills/<ten-skill>`; không dùng baseline như commit của bản mới. Chưa có người phê duyệt nghiệp vụ trong kho. Khi chỉ định, ghi tên vào `approval_owner` của `references/version.json` và manifest; validator chấp nhận giá trị này. Trường triển khai phải giao người chịu trách nhiệm.
+Phiên bản gói hiện tại: **1.3.6**, ngày cập nhật **2026-10-11**. Baseline trước cập nhật: `d2a835f00b0dbbafa13a66d56551a4f3102311ac`. Xác định commit thực tế bằng `git log -1` và `git log -1 -- skills/<ten-skill>`; không dùng baseline như commit của bản mới. Chưa có người phê duyệt nghiệp vụ trong kho. Khi chỉ định, ghi tên vào `approval_owner` của `references/version.json` và manifest; validator chấp nhận giá trị này. Trường triển khai phải giao người chịu trách nhiệm.
 
 ## Quy tắc thay đổi
 
