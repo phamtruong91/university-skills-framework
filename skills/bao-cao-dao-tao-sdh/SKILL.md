@@ -138,7 +138,7 @@ Sản phẩm nghiệp vụ hoàn chỉnh theo [quy cách và cấu trúc](refere
 - [ ] Số liệu/nội dung trong output khớp với Input đã cho (năm báo cáo, tuyển sinh, quy mô, tiến độ bảo vệ, văn bằng, đội ngũ hướng dẫn, bài báo NCS, khó khăn – kiến nghị).
 - [ ] Không bịa đặt số liệu, minh chứng, trích dẫn.
 - [ ] Đúng bố cục văn bản hành chính chuẩn của báo cáo hằng năm.
-- [ ] Căn cứ pháp lý đầy đủ, còn hiệu lực (Thông tư 23/2021/TT-BGDĐT, Thông tư 18/2021/TT-BGDĐT, kế hoạch công tác và yêu cầu thống kê của Bộ GD&ĐT).
+- [ ] Căn cứ pháp lý đầy đủ, còn hiệu lực: đã xác định khóa theo ngày thông báo tuyển sinh/nhập học (từ 01/01/2027 theo Thông tư 53/2026/TT-BGDĐT; khóa cũ theo Thông tư 23/2021/TT-BGDĐT đối với thạc sĩ, Thông tư 18/2021/TT-BGDĐT đối với tiến sĩ) ; chi tiết tại mục Căn cứ & lưu ý).
 - [ ] Đã qua Human gate: lãnh đạo (Ban Giám hiệu) đã duyệt báo cáo.
 - [ ] Số liệu chốt thống nhất đến 30/9 hằng năm; đã đối chiếu với Phòng Đào tạo (đại học) để tránh trùng lặp; số nhập học (thực học) dùng cho quy mô, không dùng số trúng tuyển.
 - [ ] "Quá hạn" tính đúng thời gian đào tạo tối đa của quy chế (đã trừ thời gian gia hạn hợp lệ); nguyên nhân quá hạn cụ thể; "đủ tiêu chuẩn hướng dẫn" kiểm tra cả tiêu chí bài báo khoa học, không chỉ học vị.
@@ -146,6 +146,7 @@ Sản phẩm nghiệp vụ hoàn chỉnh theo [quy cách và cấu trúc](refere
 Tiêu chí đạt = tất cả các ô được đánh dấu.
 
 ## Căn cứ & lưu ý
+- **Cập nhật pháp lý (đối chiếu ngày 11/10/2026):** Thông tư 53/2026/TT-BGDĐT (ban hành và có hiệu lực 30/06/2026, Quy chế tuyển sinh và đào tạo sau đại học) thay Thông tư 23/2021/TT-BGDĐT và Thông tư 18/2021/TT-BGDĐT. Theo nguồn thứ cấp, thông tư áp dụng cho khóa có thông báo tuyển sinh từ 01/01/2027; người học trúng tuyển trước ngày thông tư có hiệu lực và nhập học trước 01/01/2027 tiếp tục theo quy chế cũ; chứng chỉ ngoại ngữ theo phụ lục cũ dùng được đến hết 31/12/2027. Vì vậy phải xác định khóa của hồ sơ trước khi chọn căn cứ: khóa mới theo TT 53/2026, khóa cũ theo hai thông tư cũ. Các con số nêu trong skill này (số thành viên hội đồng, bậc ngoại ngữ, số bài báo, thời hạn, hình thức đào tạo…) lấy từ quy chế cũ; với khóa mới phải [CẦN XÁC MINH] theo toàn văn TT 53/2026 (ví dụ: nguồn thứ cấp cho biết hội đồng đánh giá luận văn thạc sĩ có số lẻ từ 3 thành viên, đào tạo tiến sĩ chỉ chính quy, thông báo tuyển sinh đăng công khai ít nhất 30 ngày làm việc trước hạn nhận hồ sơ). Nguồn chính thức xác nhận số hiệu và hiệu lực: https://vanban.chinhphu.vn/?classid=1&docid=218880&orggroupid=4&pageid=27160 ; phần chuyển tiếp lấy từ https://hcma.vn (nguồn thứ cấp), chưa đối chiếu toàn văn.
 - Thông tư 23/2021/TT-BGDĐT (Quy chế đào tạo trình độ thạc sĩ); Thông tư 18/2021/TT-BGDĐT
   (Quy chế tuyển sinh và đào tạo trình độ tiến sĩ).
 - Số liệu chốt thống nhất đến 30/9 hằng năm; đối chiếu với Phòng Đào tạo (đại học) để tránh

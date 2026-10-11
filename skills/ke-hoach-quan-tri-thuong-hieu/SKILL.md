@@ -147,7 +147,7 @@ Sản phẩm nghiệp vụ hoàn chỉnh theo [quy cách và cấu trúc](refere
 
 ## Căn cứ & lưu ý
 - Quy chế phát ngôn và cung cấp thông tin của trường (văn bản nội bộ).
-- Luật Báo chí khi làm việc với cơ quan báo chí.
+- Luật Báo chí khi làm việc với cơ quan báo chí (Luật số 126/2025/QH15, hiệu lực 01/07/2026; đối chiếu toàn văn trước khi viện dẫn điều khoản).
 - Không dùng tên thật của trường/cá nhân khi mô phỏng.
 
 ## Quản trị phiên bản

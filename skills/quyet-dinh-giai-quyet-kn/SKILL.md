@@ -36,7 +36,7 @@ xác minh đầy đủ.
 | `tom_tat_don` | Tóm tắt nội dung đơn: khiếu nại/tố cáo về việc gì, yêu cầu gì | Có |
 | `quyet_dinh_bi_kn` | Quyết định hành chính bị khiếu nại (số, ký hiệu, ngày, nội dung chính) | Không (bắt buộc nếu là khiếu nại) |
 | `qua_trinh_xac_minh` | Các bước đã thực hiện: thụ lý, thành lập tổ xác minh, làm việc các bên, kết quả xác minh | Có |
-| `can_cu_phap_ly` | Luật Khiếu nại 2011 / Luật Tố cáo 2018, văn bản hướng dẫn và quy định nội bộ liên quan | Có |
+| `can_cu_phap_ly` | Luật Khiếu nại (văn bản hợp nhất 28/VBHN-VPQH 2026) / Luật Tố cáo 2018 (đã sửa bởi Luật 136/2025/QH15, đối chiếu bản hiện hành), văn bản hướng dẫn và quy định nội bộ liên quan | Có |
 | `noi_dung_quyet_dinh` | Giữ nguyên / sửa đổi, hủy bỏ một phần hoặc toàn bộ quyết định bị khiếu nại; công nhận toàn bộ/một phần hoặc bác khiếu nại; kết luận tố cáo đúng/sai | Có |
 | `quyen_kn_tiep` | Hướng dẫn quyền khiếu nại lần hai / khởi kiện vụ án hành chính | Có |
 
@@ -129,7 +129,8 @@ Sản phẩm nghiệp vụ hoàn chỉnh theo [quy cách và cấu trúc](refere
 > Tiêu chí đạt: tất cả các ô đều được đánh dấu.
 
 ## Căn cứ & lưu ý
-- Luật Khiếu nại 2011 (Luật số 02/2011/QH13); Nghị định 124/2020/NĐ-CP.
+- **Cập nhật pháp lý (đối chiếu ngày 11/10/2026):** Văn bản hợp nhất số 28/VBHN-VPQH (2026) của Văn phòng Quốc hội hợp nhất Luật Khiếu nại 2011 với các luật sửa đổi, trong đó có Luật số 136/2025/QH15 (10/12/2025, hiệu lực 01/07/2026) sửa các luật về tiếp công dân, khiếu nại, tố cáo (nguồn chính thức: https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/28-vbhn-vpqh.pdf). Theo chú thích của văn bản hợp nhất, Luật 136/2025/QH15 sửa thẩm quyền ở một số điều (17, 18, 19, 20, 21, 24, 25) và các điều về thời hạn (27, 36). Hãy dùng văn bản hợp nhất, không dùng nguyên văn Luật 2011. [CẦN XÁC MINH] trước khi viện dẫn: thời hạn giải quyết nêu ở Điều 27 và 36, thẩm quyền của người đứng đầu cơ quan/đơn vị sự nghiệp, văn bản hợp nhất Luật Tố cáo 2018 và việc Nghị định 124/2020/NĐ-CP, Nghị định 31/2019/NĐ-CP đã được sửa hoặc thay chưa.
+- Luật Khiếu nại 2011 (Luật số 02/2011/QH13), dùng văn bản hợp nhất 28/VBHN-VPQH 2026; Nghị định 124/2020/NĐ-CP.
 - Luật Tố cáo 2018 (Luật số 25/2018/QH14); Nghị định 31/2019/NĐ-CP quy định chi tiết
 thi hành Luật Tố cáo.
 - Phải bảo đảm thời hạn giải quyết theo luật định; bảo vệ bí mật thông tin người tố cáo.

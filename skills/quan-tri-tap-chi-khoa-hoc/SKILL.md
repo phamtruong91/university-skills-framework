@@ -141,7 +141,8 @@ Tiêu chí đạt = tất cả các ô được đánh dấu.
 - Không tự ý chấp nhận/từ chối bản thảo thay Hội đồng biên tập.
 
 ## Căn cứ & lưu ý
-- Luật Báo chí 2016 và các văn bản hướng dẫn về hoạt động tạp chí khoa học; quy chế bình duyệt
+- **Cập nhật pháp lý (đối chiếu ngày 11/10/2026):** Luật Báo chí số 126/2025/QH15 (Quốc hội thông qua 10/12/2025) có hiệu lực từ 01/07/2026 (nguồn chính thức: https://vanban.chinhphu.vn/?pageid=27160&docid=216507&classid=1&orggroupid=1). Trang nguồn không nêu điều khoản bãi bỏ Luật Báo chí 2016, chuyển tiếp giấy phép, nộp lưu chiểu; Quyết định 329/QĐ-TTg ngày 24/02/2026 cho thấy các nghị định hướng dẫn đang được rà soát hoặc ban hành. Vì vậy phải [CẦN XÁC MINH] theo toàn văn Luật 126/2025/QH15 và nghị định hướng dẫn hiện hành: hiệu lực của Luật Báo chí 2016, giấy phép ấn phẩm, thủ tục lưu chiểu và các điều khoản dẫn trong skill này.
+- Luật Báo chí 2016 (đối chiếu Luật Báo chí số 126/2025/QH15) và các văn bản hướng dẫn về hoạt động tạp chí khoa học; quy chế bình duyệt
   nội bộ của tạp chí.
 - Không dùng tên thật của trường/cá nhân/tạp chí khi mô phỏng.
 

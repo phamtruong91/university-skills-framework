@@ -24,6 +24,10 @@ Bản đối chiếu lập ngày 09/10/2026. Nguồn chính thức dưới đây
 | nhan-su (quản trị đại học) | Luật 125/2025/QH15; Nghị quyết 10/2026/NQ-CP giữ lại một phần Nghị định 99/2019; phạm vi: Quản trị cơ sở giáo dục đại học; phân biệt công lập và tư thục | [Nguồn chính thức](https://baochinhphu.vn/tiep-tuc-ap-dung-mot-so-van-ban-huong-dan-thi-hanh-mot-so-luat-102260312173840717.htm) |
 | nhan-su (nhà giáo) | Luật Nhà giáo; Nghị định 93/2026/NĐ-CP; khoản 9 Điều 62 NĐ 259/2026/NĐ-CP; phạm vi: Viên chức là nhà giáo | [Nguồn chính thức](https://xaydungchinhsach.chinhphu.vn/huong-dan-quan-ly-doi-ngu-nha-giao-sap-xep-bo-nhiem-chuc-danh-thuc-hien-che-do-chinh-sach-xep-luong-119260811083919821.htm) |
 | nhan-su (hợp đồng) | Nghị định 235/2026/NĐ-CP; phạm vi: Hợp đồng lao động và dịch vụ thực hiện công việc trong đơn vị sự nghiệp công lập | [Nguồn chính thức](https://baochinhphu.vn/quy-dinh-moi-ve-hop-dong-thuc-hien-cong-viec-trong-don-vi-su-nghiep-cong-lap-102260630062226594.htm) |
+| sau-dai-hoc | Thông tư 53/2026/TT-BGDĐT, ban hành và hiệu lực 30/06/2026, thay TT 23/2021 và TT 18/2021 (thay thế và chuyển tiếp: nguồn thứ cấp hcma.vn, luatvietnam.vn; PDF toàn văn chưa đọc được) | [Nguồn chính thức](https://vanban.chinhphu.vn/?classid=1&docid=218880&orggroupid=4&pageid=27160) |
+| khieu-nai | Văn bản hợp nhất 28/VBHN-VPQH (2026) Luật Khiếu nại, đã gộp Luật 136/2025/QH15 hiệu lực 01/07/2026 | [Nguồn chính thức](https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/28-vbhn-vpqh.pdf) |
+| bao-chi | Luật Báo chí 126/2025/QH15, hiệu lực 01/07/2026 | [Nguồn chính thức](https://vanban.chinhphu.vn/?pageid=27160&docid=216507&classid=1&orggroupid=1) |
+| an-ninh-mang | Luật An ninh mạng 116/2025/QH15, hiệu lực 01/07/2026 (thay thế Luật ATTT mạng 2015: chỉ có nguồn thứ cấp) | [Công báo](https://congbao.chinhphu.vn/van-ban/luat-so-116-2025-qh15-468678.htm) |
 
 ## Điểm cần tiếp tục xác minh
 
@@ -36,3 +40,10 @@ Bản đối chiếu lập ngày 09/10/2026. Nguồn chính thức dưới đây
 ## Bảo vệ dữ liệu
 
 Luật 91/2025/QH15 có hiệu lực 01/01/2026: [văn bản chính thức](https://chinhphu.vn/?classid=1&docid=214590&pageid=27160&typegroupid=3). Áp dụng theo loại dữ liệu và nghiệp vụ; kiểm tra thêm nghị định hướng dẫn hiện hành trước triển khai.
+
+## Bổ sung 11/10/2026
+
+- **TT 53/2026/TT-BGDĐT:** PDF toàn văn trên chinhphu.vn không đọc được tự động. Thay thế TT 23/2021, TT 18/2021, mốc áp dụng 01/01/2027, quy định chuyển tiếp và các điểm mới (hội đồng thạc sĩ số lẻ từ 3 thành viên, tiến sĩ chỉ chính quy, thông báo tuyển sinh tối thiểu 30 ngày làm việc) mới chỉ có ở nguồn thứ cấp. Phải đọc toàn văn trước khi sửa các con số trong 5 skill sau đại học.
+- **Luật Khiếu nại:** chú thích của bản hợp nhất cho biết Luật 136/2025/QH15 sửa Điều 17–21, 24, 25, 27, 36. Cần đối chiếu thời hạn giải quyết trong `quyet-dinh-giai-quyet-kn`; chưa kiểm văn bản hợp nhất Luật Tố cáo, Nghị định 124/2020 và 31/2019.
+- **Luật Báo chí 126/2025/QH15:** trang nguồn không nêu bãi bỏ Luật Báo chí 2016, chuyển tiếp giấy phép hay lưu chiểu.
+- **Luật An ninh mạng 116/2025/QH15:** Công báo không nêu điều khoản bãi bỏ; việc luật thay Luật ATTT mạng 2015 và số phận Nghị định 85/2016 chưa xác minh.
